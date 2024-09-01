@@ -1,0 +1,801 @@
+EventID,CustomerID,EventType,EventTimestamp,EventDetails
+CAD3D3292F87,NDO9QTW0CHMA,login,14-05-2024 13:48,logs in.
+28E8FC713954,DCX5ZFA3SZER,refund,27-06-2024 16:38,receives a refund.
+C9873AC31821,IRB0ILP5TBPU,share,11-02-2024 19:50,shares content from your website or app.
+AA4008AEA037,ZSD1JRH4GMTC,select_promotion,09-06-2024 02:44,selects a promotion.
+1AB2EA1DD2B0,DYM4HMF8PHPF,view_item_list,01-04-2024 06:24,views a list of items or offerings.
+6B77CDA2CF7A,LMC9WFI6SQWW,sign_up,16-01-2024 10:44,signs up for an account on your website or app.
+5BD52B2996F9,XKD6NYR3HEZO,join_group,30-06-2024 15:26,joins a group.
+D4CC36E05021,TXL8MME4OEHH,login,29-05-2024 19:55,logs in.
+2126FAC3C452,PZE2ITW4MOJU,add_to_wishlist,13-01-2024 01:54,adds items to their wishlist.
+A0F87746A673,WLG6WFZ8TBGE,add_to_wishlist,18-07-2024 19:43,adds items to their wishlist.
+CE41E727F729,OLA3NXW5FVEL,view_cart,20-01-2024 05:49,views their shopping cart.
+41D8F4F70162,ALT7DCD7LSYR,view_item_list,17-05-2024 07:43,views a list of items or offerings.
+6080F09CF0DE,ZGD7ATP7IHRB,purchase,18-06-2024 07:21,completes a purchase.
+0A8C1C08F123,ENB0NUI4LZYA,share,13-01-2024 08:46,shares content from your website or app.
+8A77A85EED38,DNJ7VVG6VJAX,generate_lead,23-05-2024 07:59,submits a form or a request for information.
+BD9C4DC37FA9,ITB2BHQ3KKBL,add_to_wishlist,08-06-2024 23:37,adds items to their wishlist.
+614A6D29E6E8,PKB5SBD3AKHF,add_payment_info,04-06-2024 09:54,submits their payment information during checkout.
+411BD990E1B7,IMY0PAD4KESC,purchase,05-06-2024 03:25,completes a purchase.
+45F06254F0D5,UIE5JAY2AXAE,add_to_wishlist,04-02-2024 23:49,adds items to their wishlist.
+1DC26D65CB2C,LXY0ZNW0TDBH,select_content,25-05-2024 15:11,selects content on your website or app.
+D7161170DB72,TGQ2IIA9CNRT,view_item_list,30-01-2024 10:07,views a list of items or offerings.
+82C69E3CD373,GIA6PIT7FFWX,purchase,24-01-2024 02:17,completes a purchase.
+DEE197D4473D,DKR8SCT3SMVY,add_to_wishlist,24-04-2024 08:57,adds items to their wishlist.
+09A7A86DBEA0,NFW7OWR3MRST,select_content,30-07-2024 09:02,selects content on your website or app.
+C2CEBB8E1E10,SNF5AIZ2YJGK,purchase,27-07-2024 21:37,completes a purchase.
+D8CDC2FE697C,BON4MMQ4XKNW,view_promotion,30-06-2024 07:25,views a promotion on your website or app123.
+845917E62E55,XTR9IPP6RFGQ,view_item_list,14-06-2024 00:59,views a list of items or offerings.
+B6C83716549D,UMT7MMI0PHGS,tutorial_complete,25-03-2024 18:07,completes a tutorial during an onboarding process.
+A45CEEBEBDFE,JPH7PMO2YTHR,select_promotion,23-03-2024 05:37,selects a promotion.
+24989B87BEE0,PDP9TTP0ASEZ,select_item,11-03-2024 02:53,selects an item from a list of items or offerings.
+87EE3F46E1DA,HVS6BQI8EQYS,view_item_list,23-04-2024 11:02,views a list of items or offerings.
+B0F6515CE3EC,PZL3LWO6UOIP,refund,02-03-2024 00:36,receives a refund.
+5D3418B5267D,WVW6JYU6JHXO,add_to_wishlist,05-05-2024 16:09,adds items to their wishlist.
+15FB1E1AD681,YBJ8NIV7CGSJ,login,29-06-2024 09:16,logs in.
+8ED6DB27459B,QLJ7QGN2UYCO,add_to_wishlist,04-06-2024 12:18,adds items to their wishlist.
+B2DC72E850FC,RDX6MGF1TOPH,view_promotion,14-06-2024 11:13,views a promotion on your website or app123.
+68374AF59484,WBV2IUS5MILD,spend_virtual_currency,30-07-2024 02:25,"spends virtual currency (coins, gems, tokens, etc.)."
+205403FD7094,CJM8ACO6BBLR,select_promotion,05-04-2024 11:51,selects a promotion.
+03C74CCCD88D,XNW4AZX1IIHH,purchase,21-07-2024 10:24,completes a purchase.
+6B243A629963,OVD3ICD9VJGJ,tutorial_begin,16-06-2024 21:21,begins a tutorial during an onboarding process.
+B031D6A7A282,JKH1JEI7BGCL,add_to_cart,26-04-2024 20:16,adds items to their shopping cart.
+C1F12D0D3FB7,JIW9XBX2PEVP,add_payment_info,23-04-2024 23:31,submits their payment information during checkout.
+70B5FF99084A,UAM2UVF1QLTE,tutorial_begin,05-06-2024 12:11,begins a tutorial during an onboarding process.
+0313BC0CEAF6,VOS4KRH4GPNN,begin_checkout,03-08-2024 20:08,begins the checkout process.
+F9DA9DBF2DD8,OCG9LSB3FKIL,add_to_cart,25-06-2024 14:04,adds items to their shopping cart.
+66BDAA2FB771,WSJ5REY0ADFS,generate_lead,02-01-2024 11:11,submits a form or a request for information.
+96D24AA8C7FE,NMZ9VTC2JKMS,add_shipping_info,24-04-2024 15:59,submits their shipping information during checkout.
+98C60271D7EB,VWO5YAB9XWBK,view_item_list,02-07-2024 07:52,views a list of items or offerings.
+8362C252A400,QKA3PFU5RBUE,search,22-01-2024 19:53,searches your website or app.
+1EA8598E7265,ITI0UBO0FZTX,login,03-06-2024 11:23,logs in.
+11B8FE1F6850,RMF4DGV0ZFJV,begin_checkout,22-05-2024 05:04,begins the checkout process.
+7499370FABE3,FIN1ZUP8QWFK,refund,17-08-2024 23:21,receives a refund.
+0A90CF044B2E,CZZ1LXH1SIZM,refund,04-04-2024 02:37,receives a refund.
+05C2A757A928,CSN1LIN5MQLQ,generate_lead,29-03-2024 20:50,submits a form or a request for information.
+81971B43952C,VFT9JHY0YSGI,share,14-03-2024 15:31,shares content from your website or app.
+16D1FEA88D45,TZI3DIR9RVWJ,login,11-08-2024 17:48,logs in.
+BEE1BB5D2257,RXO5RWE1UAXW,view_cart,30-04-2024 07:39,views their shopping cart.
+4890B0D937EE,NPO0BSB3GGQV,add_shipping_info,03-05-2024 17:04,submits their shipping information during checkout.
+54E2009BB778,KJG8UYI0JUBC,add_to_cart,10-08-2024 15:39,adds items to their shopping cart.
+C9AA5907D700,CYI2TIP5FYIT,ad_impression,22-01-2024 18:21,sees an advertisement (for apps only).
+762AB17DAE42,EOE1PEI3HOEN,generate_lead,22-06-2024 20:46,submits a form or a request for information.
+6BF0574B40CF,CYF5SNG6NRPV,purchase,15-07-2024 18:59,completes a purchase.
+9F73B40DEA92,AJL9GDP5FJRO,sign_up,24-08-2024 00:18,signs up for an account on your website or app.
+5834C2462B0D,WWZ2EXY7IBLO,add_shipping_info,20-03-2024 12:29,submits their shipping information during checkout.
+D953852D1DF6,URO1MVG1YVMT,share,26-06-2024 18:43,shares content from your website or app.
+40C599322D8C,PKR6TIX6RTGA,view_item_list,13-08-2024 14:06,views a list of items or offerings.
+6E1618BA50CA,UOC2QEK5AJJQ,generate_lead,02-01-2024 05:45,submits a form or a request for information.
+D1FF20ECB3A5,ELY9JFB8WAAL,tutorial_complete,04-05-2024 04:03,completes a tutorial during an onboarding process.
+78BB3ADA430D,LBC4ZWW4IUFX,view_promotion,16-06-2024 05:58,views a promotion on your website or app123.
+C0B6D6A1C2B1,QXK6DXV4SFYD,view_cart,05-05-2024 04:09,views their shopping cart.
+066420FAC255,FMB1DDI3PWQR,tutorial_complete,20-05-2024 06:33,completes a tutorial during an onboarding process.
+4C246B87E528,TFU1YJN8NUIP,search,20-02-2024 19:46,searches your website or app.
+19A1B5DF130D,AQQ7SGN5ZZXY,begin_checkout,03-07-2024 04:14,begins the checkout process.
+3D2C65ECAE27,YZL9VUW7MAAA,begin_checkout,14-04-2024 19:03,begins the checkout process.
+34C07324C32E,XMJ1BLV4ULEM,view_item_list,22-02-2024 01:17,views a list of items or offerings.
+30644A1D7E5B,JYA9TSA5FNTK,add_to_cart,23-07-2024 03:46,adds items to their shopping cart.
+4B313A996381,QKH3AWJ5HPMU,view_item_list,23-03-2024 20:52,views a list of items or offerings.
+0883B02C85BD,KGL3UZD9LBFL,sign_up,15-07-2024 20:58,signs up for an account on your website or app.
+FCD253C390A9,SGO3VEE9DDPC,add_payment_info,26-07-2024 02:37,submits their payment information during checkout.
+25ED305E9725,XTJ3VOA0KQGH,view_promotion,24-01-2024 11:24,views a promotion on your website or app123.
+F93D6B053CA6,QLB5GMA3LDYF,purchase,28-01-2024 15:56,completes a purchase.
+A7FC8083D209,KYW9HAK2KRMK,purchase,11-07-2024 01:35,completes a purchase.
+C2D31222721C,ELZ9EQC6AUBT,share,09-05-2024 03:45,shares content from your website or app.
+9E14EF1C3763,XXN3RXJ4WORG,tutorial_begin,16-01-2024 23:07,begins a tutorial during an onboarding process.
+1781814DCDC6,LBM3FPG9IHYV,login,15-01-2024 10:12,logs in.
+6E7CF5BEBEF4,KFW5QPF0KDGB,spend_virtual_currency,06-06-2024 06:00,"spends virtual currency (coins, gems, tokens, etc.)."
+BDDFE3C5738B,ZII0UEL9LGJW,tutorial_complete,08-08-2024 18:41,completes a tutorial during an onboarding process.
+86B09571D70D,NUK5CAD1YXTP,generate_lead,29-04-2024 01:18,submits a form or a request for information.
+0D764BAD79D5,VEM2SZD4UBWW,view_promotion,01-02-2024 01:38,views a promotion on your website or app123.
+34B586CDB129,BAV0XIT8ARXD,begin_checkout,21-02-2024 11:38,begins the checkout process.
+2AA4F72FD699,FBZ0QFL9OFFL,refund,23-04-2024 23:50,receives a refund.
+B05291782049,WLB9QPZ3KJIW,refund,15-03-2024 07:35,receives a refund.
+3CD81639C8E4,AMT4AGO1BFCT,add_to_wishlist,31-05-2024 22:45,adds items to their wishlist.
+8370B76C9BB6,GNC2ZKZ4IMLX,add_to_cart,10-05-2024 02:51,adds items to their shopping cart.
+3F6C39101501,QYJ5QOD9OMAE,refund,03-02-2024 21:10,receives a refund.
+C90549F0C4C5,VVW5TPL5GMJP,view_promotion,02-06-2024 02:23,views a promotion on your website or app123.
+6BD733DD2BA2,VMX2YAN0OCFP,add_payment_info,13-02-2024 06:58,submits their payment information during checkout.
+118CB590D7CE,UAD3FBH2PHUX,spend_virtual_currency,08-04-2024 05:49,"spends virtual currency (coins, gems, tokens, etc.)."
+C7392E894B11,WHV9MYI3IGYZ,search,10-06-2024 11:29,searches your website or app.
+361997DBAC77,SVB2XMJ7QCDC,begin_checkout,12-05-2024 02:27,begins the checkout process.
+F741080AAF06,IRO9MRO4UZDF,tutorial_begin,11-03-2024 03:40,begins a tutorial during an onboarding process.
+7D3B01514E4F,PWQ5HTJ7DDBM,select_promotion,11-05-2024 04:45,selects a promotion.
+DCEFB2EF5AF2,DXA8VSQ0IWRS,spend_virtual_currency,11-01-2024 09:56,"spends virtual currency (coins, gems, tokens, etc.)."
+F0D8B8F2655D,KNX7GZG5VVFF,select_promotion,21-04-2024 15:25,selects a promotion.
+BACB5C4AB97D,NWA8LWE6SIXA,add_shipping_info,18-01-2024 17:28,submits their shipping information during checkout.
+734343B4CA2B,DQN6UZV4PXOK,view_item_list,02-04-2024 03:59,views a list of items or offerings.
+605A1D9250FF,HAU8DMI2OTVC,begin_checkout,13-07-2024 11:40,begins the checkout process.
+8A2E8F76AAEB,VFP9ECC1DNEG,select_item,23-04-2024 23:37,selects an item from a list of items or offerings.
+16ACC36D5C8D,HRQ6LLI2PBZB,add_payment_info,01-07-2024 21:18,submits their payment information during checkout.
+1172B635EC9C,HDH6BTA4GMYV,generate_lead,25-02-2024 03:07,submits a form or a request for information.
+3CA4D444C2F7,ZPN2VLM7VAHO,remove_from_cart,23-07-2024 06:07,removes items from their shopping cart.
+D1C076EA13BE,IBG6XFI3AGZR,select_item,13-07-2024 19:16,selects an item from a list of items or offerings.
+5378C05E84EF,XJN6TEU9DMLJ,view_promotion,27-05-2024 09:44,views a promotion on your website or app123.
+A77C87267FA5,RHB5GXS3YVMV,add_to_cart,26-08-2024 06:44,adds items to their shopping cart.
+D80011F6CC6F,ACW1LBT7FRJO,earn_virtual_currency,08-01-2024 12:38,"earns virtual currency (coins, gems, tokens, etc.)."
+9F077698898C,WKA4OIJ5YOEA,share,17-03-2024 09:35,shares content from your website or app.
+82C8F0870443,PJX6IJJ5DHYQ,select_item,08-02-2024 12:53,selects an item from a list of items or offerings.
+4BD87F99E96B,SRU2VEZ6KUKH,search,11-07-2024 14:30,searches your website or app.
+F4B4C2B783CA,PNM3SRQ4MJPH,refund,08-08-2024 02:48,receives a refund.
+65DEDC9D84D7,MQP1UKQ7NCDJ,view_promotion,17-08-2024 07:33,views a promotion on your website or app123.
+1615CB91CE7F,QAK0JFT5CELE,select_item,17-01-2024 06:35,selects an item from a list of items or offerings.
+880F20FBD8DB,KFR8KNQ7MYAB,add_shipping_info,25-08-2024 17:04,submits their shipping information during checkout.
+F930C9E0E6E4,JBC7JUX4WTTA,tutorial_begin,13-03-2024 23:54,begins a tutorial during an onboarding process.
+3DBBD7BCCDDC,MNN9ZZQ7ENDW,refund,21-06-2024 14:12,receives a refund.
+82A7109DCBA4,NNC5PWJ8WBYI,sign_up,14-01-2024 19:28,signs up for an account on your website or app.
+60C9AD9FC659,RYU2TAL5QGLK,view_item,06-07-2024 06:04,views an item.
+CE29EC78FA4A,ZRY6GKY1FSVK,view_item,03-05-2024 18:02,views an item.
+6B144103C7AB,ZPQ2TEW5CEUV,refund,17-04-2024 15:22,receives a refund.
+41128A3A765B,TKI2JQF7EDUQ,select_item,04-07-2024 03:22,selects an item from a list of items or offerings.
+853CDFFED01B,AKB6WCJ5FCYJ,begin_checkout,09-05-2024 07:27,begins the checkout process.
+44D778887F30,EMA6ELQ5HTMK,ad_impression,03-05-2024 01:44,sees an advertisement (for apps only).
+4EFF7935F0AA,VWM6GEB0OAGM,select_item,30-04-2024 12:20,selects an item from a list of items or offerings.
+5731D8053108,FBG6DYF5MWMO,select_promotion,20-04-2024 00:56,selects a promotion.
+707D9436950D,GMQ3IQA1SKMG,refund,14-06-2024 21:01,receives a refund.
+CE398E5201BA,LAY1VGQ1BILQ,view_item_list,19-05-2024 20:43,views a list of items or offerings.
+6753E6688906,GZL3TVH4FGUC,refund,31-03-2024 13:38,receives a refund.
+09C6AF6C3836,FCU9TTR6LVJA,view_cart,30-04-2024 17:49,views their shopping cart.
+34A8378C721D,GIV6YRY6YZMW,refund,02-04-2024 05:04,receives a refund.
+05FC53D9789E,SXQ8KVT1SAHV,remove_from_cart,24-03-2024 08:24,removes items from their shopping cart.
+E80FCD4928B6,RJH1UXX1UTUE,select_promotion,17-08-2024 08:35,selects a promotion.
+837F6D779D30,NUX6VMI4HOPR,search,19-05-2024 02:17,searches your website or app.
+4C1EC6F98055,ZFS9ZOW9LFXE,begin_checkout,24-07-2024 13:10,begins the checkout process.
+06E672CD3775,BNM2BXM6XUBZ,view_promotion,17-01-2024 23:46,views a promotion on your website or app123.
+38DA347D048D,EUC6LKK5MDMS,remove_from_cart,07-06-2024 13:51,removes items from their shopping cart.
+8A3B6938372C,GKV1TMG3QIIQ,remove_from_cart,16-02-2024 09:52,removes items from their shopping cart.
+6FC39E86C335,QTH0DTF1RAPC,purchase,13-02-2024 12:47,completes a purchase.
+D69F6197EAC1,BWK2FSE8KZSG,refund,10-08-2024 11:24,receives a refund.
+3D4D0C5D4CBB,FJL9OTK5TAZS,view_cart,11-08-2024 03:01,views their shopping cart.
+0401BB6C2069,UCS1PKY0GTFA,generate_lead,19-02-2024 06:30,submits a form or a request for information.
+AE7B8D5C1117,IGN9KWT1VDFL,spend_virtual_currency,20-04-2024 08:35,"spends virtual currency (coins, gems, tokens, etc.)."
+7ECA07DD9270,ZTV0QHY9AEIT,add_to_cart,01-04-2024 19:43,adds items to their shopping cart.
+6A5F57F6E032,IPI2YLH3YVHH,add_to_wishlist,08-05-2024 17:50,adds items to their wishlist.
+A6515DB4DB5B,HNZ1UYC8RDJC,add_to_wishlist,05-01-2024 14:22,adds items to their wishlist.
+4401BD0655E6,XZB1YAO3SHDS,view_item,25-07-2024 12:18,views an item.
+31E25F86C35D,RVU6PEF2IXAD,view_cart,07-01-2024 09:30,views their shopping cart.
+32CF9D2EBED7,LSD5BGJ0SAQV,purchase,27-02-2024 21:19,completes a purchase.
+E629C2C51C4B,NMP6ACZ6PLCM,join_group,11-03-2024 05:11,joins a group.
+8A71343AB0C0,BLK2ENT5HSDA,share,19-03-2024 04:58,shares content from your website or app.
+C2ED3919AC43,QAF5RJB9HQQY,spend_virtual_currency,18-02-2024 19:53,"spends virtual currency (coins, gems, tokens, etc.)."
+77FD92D04FC5,MSW6XFJ5NGVR,earn_virtual_currency,08-04-2024 04:09,"earns virtual currency (coins, gems, tokens, etc.)."
+074FD8953D33,YFD1AQH7NATS,select_promotion,06-04-2024 14:00,selects a promotion.
+246EA8961627,LRW4XTU2OMHV,remove_from_cart,24-02-2024 02:09,removes items from their shopping cart.
+B1FC107F8C04,YPG9OWO4XDFW,select_content,30-05-2024 16:42,selects content on your website or app.
+F61BD4239873,FFF7GWB1RYTL,begin_checkout,05-03-2024 07:14,begins the checkout process.
+C5FC1F748F87,IPX7FZF9SLVJ,tutorial_begin,20-02-2024 23:14,begins a tutorial during an onboarding process.
+E64EC7FD2661,EXC8EZO4HOPU,add_payment_info,10-08-2024 00:15,submits their payment information during checkout.
+E54E86334FF0,VWB3EEI0QPYJ,generate_lead,17-01-2024 12:10,submits a form or a request for information.
+AC0B3013BBDD,EBC0QTW5WAQQ,select_promotion,29-07-2024 06:59,selects a promotion.
+5411FA27525F,DEC6HOH0CTAE,add_to_wishlist,06-06-2024 23:42,adds items to their wishlist.
+DB3F0C209221,GGX9BDZ5NXKS,select_content,24-01-2024 23:12,selects content on your website or app.
+770F03585E7E,FHG5TFM5ZKJN,sign_up,16-04-2024 12:04,signs up for an account on your website or app.
+A78844E6B7CC,IIY0KRW3CHCV,share,15-04-2024 04:30,shares content from your website or app.
+4CE7EBC7AEEE,SMM7CTR5SKFL,select_content,13-05-2024 20:04,selects content on your website or app.
+FF3747B18536,TAN9XOU8YWJU,add_to_cart,26-05-2024 17:56,adds items to their shopping cart.
+A4023ECB9D8E,ZZT4JQE9CKMV,add_payment_info,12-01-2024 07:21,submits their payment information during checkout.
+E2D8AB664DDE,QAE5ELR4FTAM,generate_lead,14-08-2024 07:28,submits a form or a request for information.
+6AD10BAC05CD,MCQ0OYV6YZTU,search,19-05-2024 13:18,searches your website or app.
+22797BA99DE7,EMZ7PUV0DOVY,spend_virtual_currency,31-05-2024 15:31,"spends virtual currency (coins, gems, tokens, etc.)."
+3F68EF13CBA1,LRO1XNH1DWJK,view_promotion,29-06-2024 22:33,views a promotion on your website or app123.
+6D9C214206FD,WMJ1CIS1LAMS,select_content,15-02-2024 17:58,selects content on your website or app.
+6292DA3500D3,DPZ4RBJ3NDMD,ad_impression,10-05-2024 06:56,sees an advertisement (for apps only).
+65DD23F2F5FD,HON2AZY3WOPP,view_item_list,08-03-2024 08:49,views a list of items or offerings.
+79BDEBAB68B8,EDH8BZC4JJET,share,01-02-2024 10:14,shares content from your website or app.
+DA2108FBB251,SAU3IJP1ACOX,sign_up,25-03-2024 02:39,signs up for an account on your website or app.
+631EA10CC7D9,NTJ0BHG7IBHI,earn_virtual_currency,11-08-2024 07:10,"earns virtual currency (coins, gems, tokens, etc.)."
+B271AAF9BBC8,RHU4FWO2XUXI,view_cart,10-02-2024 17:57,views their shopping cart.
+F852229DD1BF,WHR3LVL4UWCV,tutorial_begin,26-06-2024 18:36,begins a tutorial during an onboarding process.
+02B0940FC753,NQD6ARW4YCPK,earn_virtual_currency,17-06-2024 06:35,"earns virtual currency (coins, gems, tokens, etc.)."
+2346BB4F6D0E,WMP3TSL7NNGZ,view_promotion,12-01-2024 00:01,views a promotion on your website or app123.
+88537005690D,ZEF2VYT8GJFY,add_to_cart,02-03-2024 19:14,adds items to their shopping cart.
+03F98AD252D6,OQC8TIV0JHQH,share,30-05-2024 02:18,shares content from your website or app.
+247AE87A92F0,RHS4QPW8GTZT,login,24-04-2024 15:11,logs in.
+479BAF604A50,CKN7GFH2KJXH,purchase,23-06-2024 00:11,completes a purchase.
+7D7A1644D1DA,WPC4XDP0DBDR,refund,12-05-2024 23:45,receives a refund.
+0429957A5B1D,HMC9OSW3FQAZ,refund,03-02-2024 20:32,receives a refund.
+EE99165DF9E9,OVX1TBA6UGFZ,view_item,22-06-2024 12:47,views an item.
+F9CAFB6849B0,JCG5IIB4UWSM,begin_checkout,12-08-2024 13:01,begins the checkout process.
+780E2A1AAC08,FDW3RYM9GGAS,tutorial_begin,07-08-2024 15:49,begins a tutorial during an onboarding process.
+D2A3520E00A7,DZF0JJH1INER,add_payment_info,29-05-2024 22:35,submits their payment information during checkout.
+E43791A7C62F,RBA8GPC5ERZH,purchase,29-01-2024 00:49,completes a purchase.
+D11324E183C0,JMH4IHX2TJTS,add_to_cart,11-03-2024 08:30,adds items to their shopping cart.
+B3A23D77F758,JYN0PJM1JYBF,refund,05-01-2024 20:50,receives a refund.
+26959E4CC78A,HDR9YBR3EILP,earn_virtual_currency,23-07-2024 17:59,"earns virtual currency (coins, gems, tokens, etc.)."
+F6218AC7DF59,DYL5SOM2ZPIX,ad_impression,08-02-2024 19:14,sees an advertisement (for apps only).
+96A00699D9CD,TSD3OQS4YTPK,remove_from_cart,08-03-2024 06:12,removes items from their shopping cart.
+E789EC6554B3,TZV7ERG5KHWV,search,22-03-2024 21:25,searches your website or app.
+CE43DAA9D5EE,ABG0WYP3IZXC,add_payment_info,05-06-2024 07:01,submits their payment information during checkout.
+06DBD58F4D2E,TYM1VVN5YTDC,view_item,11-03-2024 23:30,views an item.
+3F4DE9AE5C6F,SOG6FTZ5YWVX,sign_up,10-04-2024 02:47,signs up for an account on your website or app.
+D67A7AAF05BE,ZVP4LFA1CHFW,view_item,27-02-2024 08:20,views an item.
+6AA5806157AF,TOJ1TRU0WFMP,tutorial_complete,13-02-2024 17:21,completes a tutorial during an onboarding process.
+9444E223A394,AFF8SQT5TAYB,select_content,27-02-2024 03:21,selects content on your website or app.
+41EAA45567DA,GXN6NVA9RNYT,ad_impression,11-01-2024 18:45,sees an advertisement (for apps only).
+3E8CECE0C6BD,FOS2CDU7TWSH,tutorial_complete,29-06-2024 01:34,completes a tutorial during an onboarding process.
+12CBF2E05DD2,JKF3SAS0PVCW,purchase,12-02-2024 16:45,completes a purchase.
+2160F7BA0FD0,UHQ5FMZ9EXYN,add_payment_info,22-07-2024 19:47,submits their payment information during checkout.
+C88BE8D866E4,UTC7VLQ2HIWM,earn_virtual_currency,05-04-2024 17:38,"earns virtual currency (coins, gems, tokens, etc.)."
+2A360B92E27E,QVP3IBM2EZLC,begin_checkout,14-06-2024 21:18,begins the checkout process.
+6DD3CDFD7A7F,ZUN4GBV6HVGW,tutorial_complete,05-02-2024 07:16,completes a tutorial during an onboarding process.
+A72D3D7A393B,NUM6ERU4MMFD,sign_up,16-04-2024 23:15,signs up for an account on your website or app.
+86F818D7CC80,IPS2LQW1RCSS,share,21-07-2024 04:41,shares content from your website or app.
+04A16CB6C7B9,YEI7IJP7NUMB,add_payment_info,02-08-2024 23:35,submits their payment information during checkout.
+A1DC02890324,DBD7GYA9SVTX,search,27-06-2024 03:51,searches your website or app.
+2656C6942488,YSD5LEV4TWWC,purchase,20-07-2024 20:27,completes a purchase.
+363FF00D3430,IEQ4ZFM8TDHJ,add_to_wishlist,22-06-2024 04:10,adds items to their wishlist.
+BB4F6ADD4C39,RLO6ZXL7WQVH,login,14-03-2024 10:15,logs in.
+9C9317E47063,XXU0WCH9DAJZ,select_item,28-01-2024 15:41,selects an item from a list of items or offerings.
+50FA861C59AB,HIQ5TPF9JLOZ,generate_lead,12-01-2024 19:36,submits a form or a request for information.
+B75CB0BAC66F,PEC7QHU9XBSV,sign_up,24-07-2024 23:17,signs up for an account on your website or app.
+BFD754987073,ZAJ9DTM0VMCO,select_content,06-06-2024 05:59,selects content on your website or app.
+0CFA5AE40FD9,ESS2KSM2SUWA,view_promotion,22-02-2024 12:13,views a promotion on your website or app123.
+0A5BB928B19F,OKQ8BNB9DLWT,view_promotion,15-08-2024 08:48,views a promotion on your website or app123.
+5AB697C3BCBC,NJF5GPU0XIZP,begin_checkout,17-05-2024 01:00,begins the checkout process.
+17505ED09BE1,VXZ7DIF9FNYA,generate_lead,01-03-2024 12:16,submits a form or a request for information.
+492F435A34D7,UKB8LTZ0ICDF,share,26-04-2024 09:49,shares content from your website or app.
+13FC1731147A,IHR3PMI7FIVB,join_group,21-05-2024 19:47,joins a group.
+0862419569C2,FJE4XUW4GVVT,select_promotion,13-07-2024 07:38,selects a promotion.
+015F9F532DEE,ZLD0BTP1IOVQ,add_to_wishlist,09-01-2024 14:50,adds items to their wishlist.
+F1AD29196040,ELF9KBZ2QEJA,view_promotion,06-05-2024 14:12,views a promotion on your website or app123.
+5B52E7622CDD,STD5HLL7GYQN,begin_checkout,08-07-2024 15:32,begins the checkout process.
+41D0B5D3E3E0,TRA1CRX5RVZH,add_shipping_info,13-07-2024 14:27,submits their shipping information during checkout.
+899BEAF1C4B1,YDY9VGA9NHCR,view_promotion,08-07-2024 06:50,views a promotion on your website or app123.
+487C3B5B0E78,QKR1BPD8KAFS,ad_impression,06-05-2024 09:34,sees an advertisement (for apps only).
+22D89BB96089,DKN0YDI4JWXT,login,23-04-2024 13:29,logs in.
+A5E2F8312BF5,MYU7YTC8WZRO,tutorial_begin,27-04-2024 20:51,begins a tutorial during an onboarding process.
+2127F72EB9F3,UEA2LUM2DRGT,select_item,22-05-2024 08:24,selects an item from a list of items or offerings.
+462BB5BD5A30,YEC9CEE6EBYZ,spend_virtual_currency,24-07-2024 05:35,"spends virtual currency (coins, gems, tokens, etc.)."
+508F00654428,BQP4QVA6FAVJ,purchase,22-08-2024 12:52,completes a purchase.
+7BB45C77FBFF,LJZ3AIF3NXNH,remove_from_cart,01-03-2024 03:32,removes items from their shopping cart.
+0B1B55C0C7C4,PIH3PZJ5KGLN,spend_virtual_currency,26-02-2024 21:02,"spends virtual currency (coins, gems, tokens, etc.)."
+47E2CF6719A2,HMV2DED3CDJP,select_promotion,05-01-2024 18:38,selects a promotion.
+E315CD7361FD,MAS3TJY0OUTJ,remove_from_cart,25-05-2024 18:06,removes items from their shopping cart.
+A325D35C7D15,HZD7RUR7MLFD,view_cart,09-07-2024 09:50,views their shopping cart.
+3706C6F9312E,WVZ0TAJ4PXPM,search,10-07-2024 00:32,searches your website or app.
+103516AC1C11,ZEA0SJG1AFUU,add_to_cart,24-07-2024 00:20,adds items to their shopping cart.
+65BF1BADD152,KDQ6MZQ0QYUM,tutorial_complete,30-04-2024 02:37,completes a tutorial during an onboarding process.
+F54013961B7C,BNR7FNJ2FXNG,refund,06-01-2024 18:47,receives a refund.
+9AA30D51D02C,AVQ2SPW2QWLK,share,06-08-2024 03:38,shares content from your website or app.
+C24A8EE6E048,WWQ7MWC0DKLY,earn_virtual_currency,06-08-2024 19:23,"earns virtual currency (coins, gems, tokens, etc.)."
+F77888139105,IQT9BOJ4RFCK,add_payment_info,25-05-2024 22:55,submits their payment information during checkout.
+630E25685F75,RTT4FAH4ZTTU,view_item,12-05-2024 10:06,views an item.
+CADE27454E69,SGC6FIH9ZAFD,add_shipping_info,30-07-2024 23:19,submits their shipping information during checkout.
+4718BFF0C7BA,QNX5GSV3WCWT,purchase,08-03-2024 01:04,completes a purchase.
+EBF9B6C12C87,TCZ1VMX3QFYO,generate_lead,31-05-2024 18:55,submits a form or a request for information.
+0BA87FEEC977,EMT8TOM6YNNN,refund,03-06-2024 03:37,receives a refund.
+6727CF30D66D,WCF5CKR2VBKA,purchase,21-05-2024 05:38,completes a purchase.
+4F6D9A664682,BQO9TTO0BXVG,share,02-03-2024 23:48,shares content from your website or app.
+0BF8C2564111,XUT1UJP0NVFI,view_promotion,09-07-2024 05:22,views a promotion on your website or app123.
+A296DE6B302B,ETP4DXH8BWRG,select_promotion,08-08-2024 13:02,selects a promotion.
+6749C383D47A,SBD5AWK1OKIE,ad_impression,24-07-2024 15:55,sees an advertisement (for apps only).
+88D948F6009D,ZYW0KKN1LQGK,sign_up,08-01-2024 17:42,signs up for an account on your website or app.
+B34850B6786F,ASK3ORH1KUFI,begin_checkout,26-04-2024 13:10,begins the checkout process.
+5D87D1141BFB,DPF7AJV9ZUME,select_promotion,31-01-2024 02:02,selects a promotion.
+E751DEC0BF50,EWN2FKJ4RUUK,refund,06-02-2024 01:36,receives a refund.
+B9F4D2B6E466,NEF2ATQ0EDHL,view_item,29-02-2024 14:37,views an item.
+01AF4829AF88,LIU1QZD6ZKXT,select_promotion,02-05-2024 10:37,selects a promotion.
+BDEC78939921,EXB6OMK8NMZE,view_cart,26-04-2024 09:25,views their shopping cart.
+4768B8DFCF26,ABT9DLS4MADV,remove_from_cart,24-02-2024 22:14,removes items from their shopping cart.
+45D2EA66BFB0,FNK6SKM4VYFU,add_to_cart,21-07-2024 18:36,adds items to their shopping cart.
+C2B8FDB35825,PAW3OUL5ISWP,refund,10-07-2024 10:16,receives a refund.
+6C2B37CA0AA0,TOG8GVM2AFWS,add_to_wishlist,05-06-2024 23:20,adds items to their wishlist.
+DF404DCB3FD7,EPK2DLS3DRKY,add_payment_info,14-08-2024 22:48,submits their payment information during checkout.
+016502786B59,JDV2HQJ8GPFM,share,30-05-2024 03:53,shares content from your website or app.
+883B2BD88B3C,XFH2ISN7GEUK,select_content,01-02-2024 15:48,selects content on your website or app.
+D8841521F5CF,WSG9BET0YMIY,remove_from_cart,28-03-2024 23:30,removes items from their shopping cart.
+8D19379FCFBA,OFI0LET0OIVG,add_payment_info,29-04-2024 23:02,submits their payment information during checkout.
+3437DF6F421E,QHB7OIM5MUFM,tutorial_begin,23-05-2024 16:43,begins a tutorial during an onboarding process.
+CB79FD87E7C0,BXP9PMG1IYUJ,view_item,06-04-2024 09:16,views an item.
+4DF8A924EA2F,WJA2ZXO7CPQS,ad_impression,01-03-2024 07:46,sees an advertisement (for apps only).
+546243BCD383,ILL8QOK4XXBG,begin_checkout,06-05-2024 03:50,begins the checkout process.
+A2734A0C5458,UKN7BTD7AWVG,refund,24-06-2024 18:21,receives a refund.
+DB60FAB8D338,GZQ3WRL2HNUC,remove_from_cart,04-05-2024 15:47,removes items from their shopping cart.
+D84521D6FC18,GUN1GPQ5KTVX,share,08-06-2024 10:55,shares content from your website or app.
+4E27C01830EB,LLZ6LOZ4QAVH,ad_impression,22-02-2024 23:00,sees an advertisement (for apps only).
+B76A40F6E9AC,DLF2COK6FQGY,share,28-02-2024 21:22,shares content from your website or app.
+D64CB4BB1199,RUR0EZO6LWPO,purchase,20-03-2024 12:16,completes a purchase.
+A0E6CB5752AF,OOD1BOG8HPRQ,add_payment_info,07-06-2024 22:29,submits their payment information during checkout.
+B742CDCD28CD,KOS8PEA5DJXN,view_item,18-03-2024 18:55,views an item.
+B7E662B0DEEF,YUQ9FOC9JHBL,login,08-02-2024 20:02,logs in.
+F87252761739,IWY8EKI5NDEC,view_promotion,21-02-2024 20:07,views a promotion on your website or app123.
+9EAF13890566,XPT0UZE6DLHD,tutorial_begin,16-01-2024 00:54,begins a tutorial during an onboarding process.
+0A0F79532C0D,VVX9NCG9EIIA,generate_lead,02-08-2024 00:50,submits a form or a request for information.
+4EC398F9223D,MBD4SEL1BUFP,refund,03-05-2024 08:32,receives a refund.
+C21045663481,OEK6TPV9IRYG,purchase,24-03-2024 12:31,completes a purchase.
+E37F803EB86F,QTK1SRV3PXYM,select_item,16-02-2024 12:46,selects an item from a list of items or offerings.
+E9B2D4B1F2DF,JID7IBA6WJFV,refund,10-05-2024 14:35,receives a refund.
+7607680509F5,YYQ3EVK4FSWE,ad_impression,29-06-2024 03:15,sees an advertisement (for apps only).
+EE9BB46491FB,MLQ2PCM0DFLK,tutorial_begin,21-05-2024 09:26,begins a tutorial during an onboarding process.
+00DB758E7BBA,TUT0XGW7SEJY,purchase,18-05-2024 21:13,completes a purchase.
+3199C566616E,DKG9CMF9URAJ,refund,14-04-2024 02:30,receives a refund.
+4D617FA7E9CA,TIU7UKY9AVQB,select_item,17-05-2024 02:27,selects an item from a list of items or offerings.
+50057664EC12,UCO7QVI1ISUI,add_to_wishlist,11-02-2024 07:00,adds items to their wishlist.
+B99BADA340B4,RYD1XEV1VPLG,tutorial_complete,22-05-2024 06:21,completes a tutorial during an onboarding process.
+75F412E76316,NPD3ZRA9QRNV,spend_virtual_currency,29-03-2024 19:11,"spends virtual currency (coins, gems, tokens, etc.)."
+ED406F7099B7,BNM1BTD7IUEF,purchase,06-08-2024 11:34,completes a purchase.
+8492478B1793,ONE2EMW5AGUA,share,02-07-2024 14:57,shares content from your website or app.
+E4A94528A604,DOY2VQF5OIII,begin_checkout,30-05-2024 18:48,begins the checkout process.
+8CF08E82E927,MXC4ICG6PJHP,join_group,22-08-2024 16:47,joins a group.
+7D619546F040,BDP0GBW0CPFD,add_shipping_info,22-04-2024 01:30,submits their shipping information during checkout.
+7FB3692B1DFF,CBO5KXJ0XLWN,sign_up,15-08-2024 21:42,signs up for an account on your website or app.
+F49B5970CDD6,IGU2WAC4RKJW,sign_up,24-05-2024 01:52,signs up for an account on your website or app.
+A6A4527070DC,VER4ADX0SFIT,join_group,14-06-2024 09:21,joins a group.
+A776DEE27D92,JDZ5ZIP0ALZG,select_content,03-05-2024 17:52,selects content on your website or app.
+7FC8FEDADA00,QUB0CMJ4ALDY,spend_virtual_currency,10-02-2024 08:19,"spends virtual currency (coins, gems, tokens, etc.)."
+AB020612AFEE,JFZ6JWU1JGLH,view_cart,29-07-2024 10:03,views their shopping cart.
+15C8CC42A7C1,WEA7YIR2IOIM,purchase,22-04-2024 09:28,completes a purchase.
+ADB5D2632BB7,LTA2DLW2KEFH,add_to_wishlist,22-05-2024 07:34,adds items to their wishlist.
+EA888C4256A8,HQR5EVS8ZZFK,spend_virtual_currency,16-05-2024 05:25,"spends virtual currency (coins, gems, tokens, etc.)."
+C402B4E00DDB,AVM4RFK5RPLG,generate_lead,10-03-2024 17:33,submits a form or a request for information.
+AC6601252018,HAB8FRJ5IXKT,refund,13-06-2024 12:40,receives a refund.
+CA0B4C58FC6B,MPV7DKN1LYJL,tutorial_complete,30-06-2024 05:29,completes a tutorial during an onboarding process.
+36057B4F7DD1,YSG1LKU1HBYJ,remove_from_cart,28-06-2024 14:05,removes items from their shopping cart.
+65F15409D08E,AVS2ECW4YPAM,login,22-07-2024 06:56,logs in.
+0826FFF03B50,XEJ3IPX2VRPC,add_payment_info,08-08-2024 21:34,submits their payment information during checkout.
+54DCC246C0E3,KDI9SSU1BMCB,refund,05-08-2024 01:27,receives a refund.
+AD64191C83B2,JXC7LNP2TGDI,view_item_list,19-08-2024 23:46,views a list of items or offerings.
+0D8C93F813B1,GDL2WYJ0USPY,view_cart,30-07-2024 12:55,views their shopping cart.
+904EE2FB2990,RKV9FSF5SAYC,add_payment_info,28-06-2024 15:29,submits their payment information during checkout.
+ABFAA8B79568,KKU4UAQ6BTLY,spend_virtual_currency,15-01-2024 15:48,"spends virtual currency (coins, gems, tokens, etc.)."
+C9F138850983,JRL0SRF2WCYP,select_content,01-05-2024 09:43,selects content on your website or app.
+6C9AF2861749,VAZ4GWR3DRXG,share,18-01-2024 12:25,shares content from your website or app.
+697B9D4D64D1,PNA4VGD4ICIC,login,07-04-2024 15:56,logs in.
+03172D7254C5,IBI6JJE5SBVJ,spend_virtual_currency,15-03-2024 04:54,"spends virtual currency (coins, gems, tokens, etc.)."
+D70387ACA9F3,LBU3KMF2BRSK,view_item,12-05-2024 01:55,views an item.
+E3B1BD829624,LTT7COM6YHHC,login,05-04-2024 08:46,logs in.
+A6A287166488,CAZ0QVR8WCFA,select_item,20-07-2024 15:47,selects an item from a list of items or offerings.
+F3B2B1C85049,DRK3RJV7LJTR,add_to_cart,29-03-2024 17:58,adds items to their shopping cart.
+ED94B943BA66,EUJ2HHL3NHJC,add_payment_info,18-02-2024 17:11,submits their payment information during checkout.
+7DF509508613,RLG8GRA3VARD,generate_lead,19-03-2024 10:03,submits a form or a request for information.
+5A00C85EACF8,CYC0EGH4KOPI,view_item_list,17-03-2024 19:45,views a list of items or offerings.
+904261FD77E1,EKK4WCK1RCPU,refund,27-02-2024 00:47,receives a refund.
+BD84EC03C53D,OFJ6ETD6OVNI,login,24-04-2024 00:44,logs in.
+43E8F0B90D9A,TOL1JXR6HSQQ,select_promotion,03-07-2024 06:11,selects a promotion.
+8A3A7B74AE26,HYH8RSP2HNQV,select_item,17-05-2024 16:48,selects an item from a list of items or offerings.
+260D204F4424,ELB2HFP3RWUC,remove_from_cart,30-07-2024 22:37,removes items from their shopping cart.
+1ACC05E589D5,OJN0AFD8AKNP,view_item,17-03-2024 13:37,views an item.
+D7C89816D8C3,ZGN0QJO0UTUT,select_promotion,24-08-2024 19:30,selects a promotion.
+51FF4E7992AD,UUR6PRR1WBTL,add_payment_info,13-08-2024 18:01,submits their payment information during checkout.
+F30229DB8709,DXA1WEM9CAML,add_to_wishlist,02-06-2024 21:13,adds items to their wishlist.
+F1C2758127EF,QJX3TRO7TTHG,purchase,12-05-2024 09:48,completes a purchase.
+257BD5DE4336,KQK8XLL9YGMN,search,19-01-2024 04:49,searches your website or app.
+77BD65E37F82,CVI0EIV9PJXQ,tutorial_complete,01-01-2024 05:50,completes a tutorial during an onboarding process.
+526C73EF2253,QOS8WGX7SOSX,refund,29-03-2024 20:53,receives a refund.
+A664825A7A09,DYY0DSK9DOHR,select_promotion,07-08-2024 04:03,selects a promotion.
+552727C32F15,DCV0GRM7ITIO,purchase,18-08-2024 04:15,completes a purchase.
+DBF40FF23B93,UKD7EIU2MPXC,add_to_cart,06-03-2024 21:48,adds items to their shopping cart.
+9A5E435E50D9,TXG1HSK0HSBH,add_payment_info,18-04-2024 02:24,submits their payment information during checkout.
+5B058D5F8A31,KSV1CYZ1DTCC,purchase,10-05-2024 10:55,completes a purchase.
+0EECFA2B77F2,ARX5EXL3HBSD,generate_lead,31-03-2024 19:35,submits a form or a request for information.
+99D5A26CAB81,YJB4KVE1IIFF,refund,22-05-2024 03:11,receives a refund.
+9A7EAF843542,GDI1WNU9VBHC,add_to_cart,05-03-2024 15:20,adds items to their shopping cart.
+6346140CE7BA,NID8TTO6YMES,refund,31-05-2024 08:11,receives a refund.
+2B9E67385FD4,LMD6DIS7ZAPK,add_to_cart,29-05-2024 08:40,adds items to their shopping cart.
+E8ED9F6AA783,NEP3OAL0TJQQ,view_cart,25-05-2024 20:21,views their shopping cart.
+F40386339C71,QEK9SQA3UAXN,view_item_list,01-04-2024 01:23,views a list of items or offerings.
+C6D7269472E4,PHJ6FIA7OBDW,add_payment_info,20-02-2024 17:58,submits their payment information during checkout.
+105E9CDC8F28,OCL7WAB3IEUU,view_cart,09-05-2024 00:57,views their shopping cart.
+05E2A786CA5A,DSZ4AHK2HVWW,earn_virtual_currency,15-05-2024 14:43,"earns virtual currency (coins, gems, tokens, etc.)."
+80D01F16CD97,VYL8YPZ6SPXT,earn_virtual_currency,26-07-2024 11:57,"earns virtual currency (coins, gems, tokens, etc.)."
+0C0F84E573E5,DCQ4RAH2CJEC,generate_lead,19-06-2024 18:08,submits a form or a request for information.
+9935D577DEF6,MXL7QEV8CCRM,view_item,14-02-2024 10:56,views an item.
+D64017E7D035,YCH2QSZ7XHJK,view_promotion,14-04-2024 05:24,views a promotion on your website or app123.
+271A6806DDBC,AFF3ZPS4HCBJ,tutorial_begin,11-01-2024 22:18,begins a tutorial during an onboarding process.
+62BC4A71DBEC,PYJ8ESM7FREU,add_to_wishlist,20-03-2024 21:00,adds items to their wishlist.
+F0F5C081E8E0,LFV9PPZ2AUIJ,view_cart,04-02-2024 12:27,views their shopping cart.
+54DA8FD0B920,QZJ8ZQX3TSUA,select_promotion,31-07-2024 18:08,selects a promotion.
+ABE1BD9A0A28,IXD4GTL6DKRR,tutorial_complete,29-03-2024 02:53,completes a tutorial during an onboarding process.
+74F7987754EB,CKM2GYG0FTAT,view_item,27-02-2024 16:18,views an item.
+6D10D4F6AC0E,LYW4MDQ8FBGL,add_to_wishlist,16-02-2024 18:13,adds items to their wishlist.
+835CCD5B32A2,WSZ5FTP2HIUK,generate_lead,03-07-2024 14:41,submits a form or a request for information.
+CD4AA747CD48,DEG3HQM7SGRT,tutorial_begin,14-02-2024 01:13,begins a tutorial during an onboarding process.
+7E1B984B8828,QDQ5EQR7OXRB,sign_up,23-06-2024 01:52,signs up for an account on your website or app.
+767FBFD73F1E,ZJC8JDQ6HMQC,join_group,26-07-2024 01:06,joins a group.
+1F47A28276DD,VGE7DVS7WFRP,select_item,10-01-2024 16:44,selects an item from a list of items or offerings.
+D5A5546503F7,VTT0JOF2KAUQ,ad_impression,29-06-2024 15:18,sees an advertisement (for apps only).
+DF9CA276D2DA,SHS5BZV6NRKB,begin_checkout,02-06-2024 12:05,begins the checkout process.
+9BAA9631D574,GWL3GUL2PYNN,share,29-05-2024 06:43,shares content from your website or app.
+2AD7B3F42275,DDD1LWQ5DLWQ,purchase,09-06-2024 00:49,completes a purchase.
+279F5B194574,EIB6MKW1AJUX,view_promotion,22-03-2024 21:57,views a promotion on your website or app123.
+0DE0EDAF0682,RIC8YXW6CJCN,refund,07-05-2024 05:06,receives a refund.
+796498DAC918,YCL1CNL1SGKI,search,23-01-2024 20:51,searches your website or app.
+8AB3A8863DCA,AKQ1ESV7GGRK,spend_virtual_currency,03-01-2024 05:27,"spends virtual currency (coins, gems, tokens, etc.)."
+E5A98C189AC9,AVO8IIR9FYOI,purchase,08-06-2024 14:48,completes a purchase.
+0AC4569CC31A,QDW7XJD3MIUY,tutorial_complete,18-06-2024 17:36,completes a tutorial during an onboarding process.
+4B98EBDD45A9,NZA8KPV0BHOT,refund,09-07-2024 04:52,receives a refund.
+A77DBFF7B7C1,SFP3WPK2CQWZ,refund,29-06-2024 06:23,receives a refund.
+39F5FF1CF273,OCX8MME1BFCG,purchase,17-08-2024 23:05,completes a purchase.
+36815B981A0C,MAB1ESX7BFZE,ad_impression,08-05-2024 20:43,sees an advertisement (for apps only).
+6E5266EF7F1C,ZSS4MJN4WKMO,add_to_wishlist,11-04-2024 06:14,adds items to their wishlist.
+04EFA708F55C,CGS6IRV3RJWB,sign_up,12-06-2024 07:33,signs up for an account on your website or app.
+E6AD2C5A65B1,NUS5OWV3SLXR,begin_checkout,10-04-2024 03:57,begins the checkout process.
+B6B12DF00E66,SXD6EQS0MCSA,add_to_wishlist,01-06-2024 04:49,adds items to their wishlist.
+4753C839C216,RLS9LHI6IDJJ,refund,28-01-2024 06:47,receives a refund.
+E1DA07CE324A,RDI7YXY9FNXV,spend_virtual_currency,16-03-2024 13:06,"spends virtual currency (coins, gems, tokens, etc.)."
+41DB03A2DFE1,PQF4NCB0YCUF,refund,06-01-2024 18:52,receives a refund.
+0D3919F29A9B,LVC8FGW8SMXQ,purchase,22-04-2024 14:47,completes a purchase.
+F1E4DBFB2D66,YMS3GYL0GUYA,begin_checkout,29-05-2024 18:24,begins the checkout process.
+707B8FABD112,UHN5YQI9XWXV,search,08-04-2024 03:43,searches your website or app.
+92A057B86E15,DJJ0CMN0VINS,search,14-04-2024 07:39,searches your website or app.
+23480AFED2CF,NHG2BDH2RJMT,add_shipping_info,06-01-2024 22:06,submits their shipping information during checkout.
+7C7BE52BE1F2,DOI7ULW1YOLZ,select_item,28-04-2024 00:19,selects an item from a list of items or offerings.
+C543447C48AA,ZIS6XQY3YENP,refund,15-08-2024 11:49,receives a refund.
+99D0EE544593,WEV6RQK3QXPF,generate_lead,05-05-2024 03:58,submits a form or a request for information.
+090972FB4291,BCX0WCK4TWAZ,add_to_cart,27-07-2024 21:41,adds items to their shopping cart.
+ADD53381B750,PKI7AVR2FVZA,search,17-08-2024 07:18,searches your website or app.
+4.73697E+11,LHF7SOX3OWLL,view_promotion,31-03-2024 16:54,views a promotion on your website or app123.
+FEAA143F58B1,BTG6VIH8TEZI,select_content,20-03-2024 02:01,selects content on your website or app.
+222C01D3159C,GZQ7SPG2SPAJ,view_cart,23-04-2024 18:14,views their shopping cart.
+0859446089C1,QAY4BBK6NOHW,add_payment_info,18-03-2024 21:32,submits their payment information during checkout.
+124C21BFB61D,TKL3LEP9XRSB,refund,02-08-2024 06:43,receives a refund.
+E8D5C6354196,ZDO2XTC3FGUH,add_to_wishlist,04-05-2024 16:20,adds items to their wishlist.
+FEBDF0CEAE5B,YPF9XFA7FDNV,view_item_list,15-04-2024 22:13,views a list of items or offerings.
+0745C485008F,QDX9NZO7GBYY,view_cart,28-05-2024 21:46,views their shopping cart.
+F400913A18DE,BIA6RTB7SDTI,select_content,09-06-2024 12:40,selects content on your website or app.
+A007B2BA41BD,HYT4ZSK8JRFG,view_item,06-03-2024 04:33,views an item.
+A33DCA5C1141,MIY3AKY5QFDS,view_promotion,29-01-2024 02:33,views a promotion on your website or app123.
+EC85FD876A13,OKU0RUN4PMGO,begin_checkout,01-07-2024 19:25,begins the checkout process.
+7BB449F569D8,PFQ9QYE0UVTF,remove_from_cart,19-04-2024 20:25,removes items from their shopping cart.
+7A1D1B563E57,AJE3FZC3EYVR,purchase,01-08-2024 06:34,completes a purchase.
+1897E565E51F,UFQ2IWI2GNSY,view_cart,06-04-2024 13:55,views their shopping cart.
+0DFD2D9AC7C3,RNQ1QER8FXFR,select_item,07-01-2024 13:36,selects an item from a list of items or offerings.
+506A19EEBC25,PFD4UIC7ZOVI,select_item,16-03-2024 08:38,selects an item from a list of items or offerings.
+74233192DF89,GHG8SBT7RYWP,view_item,25-08-2024 18:34,views an item.
+3917B8ECD0C3,FFX3KUU7WXEH,sign_up,04-07-2024 22:35,signs up for an account on your website or app.
+B4E19BA32CDB,ZFT1LSW4BEOQ,select_content,28-07-2024 07:57,selects content on your website or app.
+DA00A7E52E11,SXX0SBX3ZSIK,select_item,04-02-2024 07:11,selects an item from a list of items or offerings.
+3C8251D7737C,NYC3NVT0GPXA,add_payment_info,28-04-2024 20:24,submits their payment information during checkout.
+663E1B579E4A,WQB1TLM2ZTZL,select_content,27-03-2024 19:44,selects content on your website or app.
+B7628C9B52F3,NCK3NXO6AMMW,search,25-04-2024 04:05,searches your website or app.
+BFAB9407FB52,MHX5QJP7VHKL,add_shipping_info,15-04-2024 04:28,submits their shipping information during checkout.
+3.93712E+11,TNL7SDN6AURA,select_promotion,15-04-2024 05:33,selects a promotion.
+C2EE1C8E8E58,BKJ7RVO1ANHW,login,13-03-2024 10:26,logs in.
+8E76D1EABD54,ASZ6RPZ2VQOR,add_to_wishlist,29-01-2024 13:23,adds items to their wishlist.
+22368F1D107F,LOW0MMB3DTKN,begin_checkout,18-04-2024 21:16,begins the checkout process.
+FE3504B9E7E3,JTR0SHX0NNPR,tutorial_begin,21-08-2024 22:59,begins a tutorial during an onboarding process.
+89E536CA2671,URL4QBE4JQHM,spend_virtual_currency,12-03-2024 13:20,"spends virtual currency (coins, gems, tokens, etc.)."
+FBC30EF9884E,NRM3YQB9INUI,ad_impression,11-05-2024 03:56,sees an advertisement (for apps only).
+2E8F5A9670C6,NIT9XIU6SBKI,share,19-03-2024 01:57,shares content from your website or app.
+B33FD2AA9225,JRN0LOY1AYPU,refund,22-05-2024 07:57,receives a refund.
+5BC0FDDBFF92,FAT4UKJ3XFVF,remove_from_cart,02-06-2024 11:59,removes items from their shopping cart.
+C5C91B45E624,SFV3GBR8RQXH,select_promotion,15-01-2024 19:48,selects a promotion.
+564B98084968,KTA1QTC9QEYQ,add_to_wishlist,28-04-2024 10:45,adds items to their wishlist.
+B5D60ED5216D,SCH7LKB0EOTZ,refund,25-06-2024 15:49,receives a refund.
+A4931E4ADF40,CXK3VFT2NOYA,view_item,14-02-2024 04:18,views an item.
+BEE2E10A387F,FSY0DUK3GBKW,add_payment_info,24-05-2024 05:53,submits their payment information during checkout.
+E83A207C3FCB,LXW7VBP9RWEZ,select_promotion,18-01-2024 05:17,selects a promotion.
+81641CBB9ACB,JFT8BPH1KAOC,begin_checkout,04-06-2024 18:00,begins the checkout process.
+5E4CDCD543F0,EWQ8EXX1DUPC,select_item,19-08-2024 15:47,selects an item from a list of items or offerings.
+0335A6256891,SNS5WHO5JTXV,join_group,06-03-2024 17:49,joins a group.
+248CA4A1B9D5,ALT7VOF8DKXF,refund,08-06-2024 07:45,receives a refund.
+497E6E99A771,HIP9IQK1AVXE,view_cart,10-03-2024 06:47,views their shopping cart.
+D876745F3E89,XJY4FNR9RYGD,spend_virtual_currency,31-01-2024 18:43,"spends virtual currency (coins, gems, tokens, etc.)."
+A93FA06A2C22,ROO1MLC4XCTY,earn_virtual_currency,05-05-2024 13:07,"earns virtual currency (coins, gems, tokens, etc.)."
+259A3C93661E,UGV9USW9QXFL,refund,04-03-2024 09:20,receives a refund.
+EAA6963B45D0,HUJ3GWG2NFHQ,earn_virtual_currency,10-02-2024 06:16,"earns virtual currency (coins, gems, tokens, etc.)."
+D707AF595E51,NWU8YZR7BKGV,view_cart,06-02-2024 12:13,views their shopping cart.
+8BDA6DC17782,MIB5OZM3ETQG,tutorial_begin,29-04-2024 13:03,begins a tutorial during an onboarding process.
+DA8CB0B21BC8,GWC7PAA3XUOU,login,14-08-2024 14:20,logs in.
+41D2A4310A28,TNO2YSC2RORW,view_promotion,31-05-2024 13:37,views a promotion on your website or app123.
+48C1286554E4,VPS0WRQ1WIFR,view_item_list,11-06-2024 13:27,views a list of items or offerings.
+9C9DD082542C,OHF9FEL9IWVV,add_to_cart,18-05-2024 09:14,adds items to their shopping cart.
+207C97B5A20E,KQH0JYS3XQZJ,tutorial_begin,21-07-2024 17:39,begins a tutorial during an onboarding process.
+478EF4A664F9,HNW0JIY0UMBW,sign_up,01-05-2024 02:44,signs up for an account on your website or app.
+04198759580C,NFK6MDC3TWRX,share,27-07-2024 12:29,shares content from your website or app.
+CF21B9161F7A,MTP1JMA3ZUCS,login,19-06-2024 09:49,logs in.
+6C919024A61E,UIN9BIJ7ONFL,view_item,29-05-2024 20:52,views an item.
+BE81C4718E93,ZFX8XVN3ULQO,login,11-06-2024 01:38,logs in.
+6500B6F5C561,KPJ9FTT1DHUF,add_payment_info,05-03-2024 19:02,submits their payment information during checkout.
+3718F2E1E562,LPB2HIM7FNEC,add_payment_info,12-08-2024 18:10,submits their payment information during checkout.
+D81E0A37B903,JHY8YKJ4KIAS,view_promotion,02-02-2024 05:51,views a promotion on your website or app123.
+BE5959841D9E,JXJ9COL9QETE,join_group,23-01-2024 22:15,joins a group.
+B3F554A5DD48,XMG1TWZ3VQHL,join_group,07-08-2024 11:03,joins a group.
+34655F163E7E,ANG0CYN5FOBV,remove_from_cart,24-03-2024 10:25,removes items from their shopping cart.
+B0C133BC401F,DCS5MPZ1HVQF,share,25-04-2024 19:44,shares content from your website or app.
+9392EAFF51AE,NYD7MAZ5QDNK,spend_virtual_currency,09-05-2024 06:35,"spends virtual currency (coins, gems, tokens, etc.)."
+A1C03A891081,WAU2GMS8XGYE,view_item,02-04-2024 01:32,views an item.
+5F755BF0613E,FWL1QFU2OLSS,sign_up,08-07-2024 17:22,signs up for an account on your website or app.
+7140773D59AC,HET4XJQ6SBJF,login,03-08-2024 19:50,logs in.
+89BA53B0B41A,PLY5UTF9UHXO,earn_virtual_currency,26-07-2024 11:09,"earns virtual currency (coins, gems, tokens, etc.)."
+797EBA58FCFB,YTF5BDM8DJDS,view_item,24-01-2024 04:32,views an item.
+ABE5B95343F3,SJZ0ZTB4DUGJ,select_promotion,27-02-2024 11:38,selects a promotion.
+33CADC1EC94A,ZJL6TBY6ZGMU,view_cart,10-03-2024 06:39,views their shopping cart.
+603DD4E7529D,LFZ1EUW9OADD,search,04-04-2024 20:58,searches your website or app.
+C80D5FFA0DB3,FEE5PQL0RUOD,begin_checkout,15-05-2024 21:18,begins the checkout process.
+ACC961A21A12,TNP8QAV1QLRF,begin_checkout,19-08-2024 21:47,begins the checkout process.
+026E819C67C2,NEJ7XLT7UYUS,add_to_wishlist,14-04-2024 17:32,adds items to their wishlist.
+D9F4CDDF78CD,ZRJ2QNE5WNTZ,tutorial_complete,08-04-2024 20:17,completes a tutorial during an onboarding process.
+24B1771959C2,UOK4IOH8GAHV,add_to_wishlist,09-02-2024 04:51,adds items to their wishlist.
+00475E388C23,SHJ2NHJ5GEAE,begin_checkout,02-06-2024 06:23,begins the checkout process.
+622AAC90BE36,XUX3THX3MALK,add_shipping_info,17-05-2024 21:33,submits their shipping information during checkout.
+DE53CC11C876,MFI9AXP6MIAJ,view_cart,20-03-2024 19:18,views their shopping cart.
+382D04E03649,PBI6FKF5CZCA,tutorial_begin,06-04-2024 20:43,begins a tutorial during an onboarding process.
+D976F27DE980,IUG0ZOY4WYYS,purchase,04-02-2024 10:33,completes a purchase.
+3BF704E4BEA2,RXQ6OXB2TXOA,add_payment_info,12-08-2024 09:14,submits their payment information during checkout.
+C49A3CBAF6ED,XRT8QZY6FKAP,login,02-05-2024 18:20,logs in.
+BCC50C8BF509,JLU8IVJ8JUEZ,remove_from_cart,05-03-2024 17:48,removes items from their shopping cart.
+55350DFA1802,STC5THZ7RTDG,share,06-01-2024 15:51,shares content from your website or app.
+0CD1B0767AD2,CUU2GAQ4MGXF,refund,24-03-2024 17:20,receives a refund.
+98B8BEA483D9,ZKZ4CAS7PPMM,share,06-04-2024 07:52,shares content from your website or app.
+482C199F445C,FJD6VSA4VEPJ,earn_virtual_currency,02-07-2024 07:04,"earns virtual currency (coins, gems, tokens, etc.)."
+4479F5EA5393,OZG2IAM3OHQL,add_shipping_info,10-01-2024 10:24,submits their shipping information during checkout.
+74C3CC6CC9CE,WSZ3VPS4BETJ,remove_from_cart,22-06-2024 23:42,removes items from their shopping cart.
+D965362DFA3F,TYY7XNR4FJSE,view_item_list,03-01-2024 13:46,views a list of items or offerings.
+6694CA01C34B,VID1TIF0QYCR,login,22-08-2024 09:24,logs in.
+28FB60B530D3,FVY4ICZ2COAJ,generate_lead,17-04-2024 07:37,submits a form or a request for information.
+1DA3AEDA4084,IOO7YED2VIAC,select_item,28-05-2024 21:17,selects an item from a list of items or offerings.
+E4978CEC59B9,TGZ1NMR1FXAQ,begin_checkout,22-08-2024 17:28,begins the checkout process.
+C211EE091D95,DPF5HWP4OYVB,generate_lead,24-03-2024 01:18,submits a form or a request for information.
+7EC98D265F86,BAE3QOT4WGFN,remove_from_cart,26-08-2024 18:13,removes items from their shopping cart.
+3446CF1B097B,QAM2QEV8EOVY,generate_lead,20-05-2024 22:49,submits a form or a request for information.
+3499DA5BF113,LAK6VNS3IYVN,add_payment_info,19-01-2024 13:22,submits their payment information during checkout.
+A925720926EB,DGN8LJL4CITQ,view_cart,30-05-2024 15:53,views their shopping cart.
+D73E5F970B31,NWX3DGE7MISS,generate_lead,29-06-2024 11:08,submits a form or a request for information.
+127CB5D21D32,VOK4QOQ5NFHD,generate_lead,23-01-2024 03:51,submits a form or a request for information.
+5EB762F7D814,DDC9IFF1GZBL,select_content,20-01-2024 06:15,selects content on your website or app.
+0F086E8ACBC7,ASC9ZEH8HSTQ,add_shipping_info,20-04-2024 14:56,submits their shipping information during checkout.
+DF7568200D0A,QDX6ZIA5BKZS,begin_checkout,09-08-2024 17:32,begins the checkout process.
+C4BED9AC279F,LCV7KAI9HKAC,earn_virtual_currency,08-08-2024 20:53,"earns virtual currency (coins, gems, tokens, etc.)."
+A7469EB8A313,ZEA0NCR7EHOV,ad_impression,10-02-2024 15:10,sees an advertisement (for apps only).
+F9B486E08664,GHI3TJN2RWZG,add_payment_info,09-07-2024 16:13,submits their payment information during checkout.
+7137C66982AF,NBC5TZH8XUAY,purchase,19-03-2024 16:31,completes a purchase.
+ABE70FDFABBA,LKE7FXL0KLAD,view_item_list,05-05-2024 15:42,views a list of items or offerings.
+7EA321999FAE,PTQ7SVK1RDEL,search,01-02-2024 23:38,searches your website or app.
+964CC48E2A01,WPV8VBD8SWHL,add_to_cart,03-06-2024 08:26,adds items to their shopping cart.
+38AB68202CFC,UXN3UWU0ZFEF,share,18-08-2024 05:50,shares content from your website or app.
+58F418648753,MNS8EUH8TFQU,begin_checkout,15-08-2024 10:24,begins the checkout process.
+F2EEFE32EE9E,UGR9GDD3FBDH,refund,18-02-2024 09:34,receives a refund.
+04AA03431A40,YNR3ZSF2PYYS,spend_virtual_currency,23-07-2024 05:17,"spends virtual currency (coins, gems, tokens, etc.)."
+3D9B50138CE8,LDE2PRT9IVSN,refund,24-06-2024 02:15,receives a refund.
+8BC9537B740F,MOF1XXP1TXCU,view_item,09-04-2024 12:51,views an item.
+10F830975811,XUQ7BQV0DOOV,share,25-07-2024 20:23,shares content from your website or app.
+91B2A6FF4BC8,KZG0QJS4YAMX,select_promotion,16-04-2024 10:20,selects a promotion.
+749F30B0A399,JJX8MCL4KMWV,view_cart,28-07-2024 04:15,views their shopping cart.
+D0483D1BE950,YNG0ZBG7CIZX,purchase,09-06-2024 20:32,completes a purchase.
+38A11AD6C928,RNE2CKR0HIZQ,generate_lead,31-01-2024 08:29,submits a form or a request for information.
+9D3050CACA19,DLQ0KYC6MJAE,add_shipping_info,17-03-2024 23:24,submits their shipping information during checkout.
+8560B319B829,EEE3SFT4THCD,earn_virtual_currency,21-07-2024 18:21,"earns virtual currency (coins, gems, tokens, etc.)."
+010F746ECFFA,IXC6IYF5YCPL,add_shipping_info,13-03-2024 09:01,submits their shipping information during checkout.
+C91554AAABA7,ADC3BWS1TWZR,view_item,17-07-2024 15:44,views an item.
+E5F436A653F4,PLH2ZXL5UPRQ,tutorial_begin,19-04-2024 14:38,begins a tutorial during an onboarding process.
+EABE14104699,ZFR2SBO4ZBWE,add_to_cart,28-06-2024 02:40,adds items to their shopping cart.
+F1078A7470C5,RBX5JNB3XCNV,view_item,08-07-2024 16:55,views an item.
+4073CA508C1D,WRX6BXX8KLDM,refund,23-08-2024 15:28,receives a refund.
+5022A93D31A9,XEH0SFG5GOHM,purchase,04-04-2024 00:21,completes a purchase.
+B5EDF531D09B,OQA3KFH4BYTW,generate_lead,24-06-2024 14:52,submits a form or a request for information.
+A8BAC5B492E8,SLW8EWP9WLZG,view_item_list,11-02-2024 16:31,views a list of items or offerings.
+02241EAF0F04,LPE1QMU8FTAD,add_to_wishlist,04-01-2024 03:25,adds items to their wishlist.
+7B74D2D4D7A6,BTT1PHS6EUYQ,purchase,18-08-2024 06:04,completes a purchase.
+96FA02FAAF2B,FSU9HEQ3AIDE,view_cart,09-06-2024 08:34,views their shopping cart.
+560905D1D90D,BKH6QOU1FCOA,earn_virtual_currency,10-05-2024 17:25,"earns virtual currency (coins, gems, tokens, etc.)."
+7E648C504CEA,THK3CRK5FWRL,purchase,19-01-2024 23:25,completes a purchase.
+48E77BAC7B36,GWQ6EIR6BOZB,add_shipping_info,30-03-2024 22:18,submits their shipping information during checkout.
+CB6252AF89EF,NEY4XPE7FIQX,select_item,17-03-2024 06:39,selects an item from a list of items or offerings.
+4BDB1EC1898A,EXT5DJH5QVHA,view_promotion,25-06-2024 18:51,views a promotion on your website or app123.
+534196735EC1,XQU2ZLR9GPTH,spend_virtual_currency,15-06-2024 17:27,"spends virtual currency (coins, gems, tokens, etc.)."
+3816705E8883,LEW5RFJ9RYGT,tutorial_begin,10-05-2024 22:10,begins a tutorial during an onboarding process.
+3C1F9BF07B98,ZEI4PAR3IQTS,refund,29-05-2024 14:45,receives a refund.
+B528DDA59B0B,XTS4KBA8BXZN,view_item,15-04-2024 22:58,views an item.
+313A65494B31,UZW6VHC8POPC,view_item_list,25-08-2024 09:57,views a list of items or offerings.
+4FEE9E3300BD,DFF2SRI3LQDO,purchase,23-01-2024 18:50,completes a purchase.
+28EA58761DB4,KUV5KRT7NKDE,add_shipping_info,03-03-2024 14:57,submits their shipping information during checkout.
+18F7A08053C1,YWI5LTE1FVMD,view_promotion,12-06-2024 13:02,views a promotion on your website or app123.
+649AAC381EB5,SPS7EDH1QVSV,view_item,05-02-2024 18:29,views an item.
+7658056ACF69,INU9ENO5WIFH,search,06-03-2024 23:26,searches your website or app.
+CB95F7F220E5,BOJ8LCM6PPMQ,select_promotion,15-03-2024 18:37,selects a promotion.
+EB22580E8CCE,CTI5LVE2YKCO,search,03-02-2024 06:48,searches your website or app.
+806B97D8349D,JKI7SDB3RGBX,add_payment_info,14-04-2024 09:03,submits their payment information during checkout.
+3C880851DE83,SIO8RJL7ZGTK,tutorial_begin,31-03-2024 00:08,begins a tutorial during an onboarding process.
+1E26CF836E07,YXR7OQK6TVYJ,tutorial_complete,09-05-2024 19:37,completes a tutorial during an onboarding process.
+2E87402AA2A0,JHS8NJB7LRCD,ad_impression,13-07-2024 20:07,sees an advertisement (for apps only).
+2CBD4DF83328,FAE4GLE8VSQD,add_shipping_info,14-08-2024 13:15,submits their shipping information during checkout.
+9ABA912C65DD,CXM6QUA0UVUV,remove_from_cart,08-04-2024 01:03,removes items from their shopping cart.
+AD926B5B9A18,JDW2JNB2SCUD,remove_from_cart,08-07-2024 22:38,removes items from their shopping cart.
+60700EE97017,GYN4HGS6BULC,refund,17-06-2024 22:41,receives a refund.
+3FB0286D0F44,IIV4RNI7VCQQ,add_to_wishlist,27-07-2024 20:26,adds items to their wishlist.
+29D3396259FE,RUZ2WWL3LSSF,select_item,15-03-2024 00:04,selects an item from a list of items or offerings.
+AD09D80FC387,DTC5IVT8SOIE,view_promotion,01-02-2024 19:49,views a promotion on your website or app123.
+28723044DE66,UGE8LQX0CMTP,tutorial_complete,13-02-2024 00:29,completes a tutorial during an onboarding process.
+8C275393B3FD,GVA5FQA0DPYB,select_promotion,30-01-2024 06:08,selects a promotion.
+98A99C057E7D,OHQ9CIT9OBMO,tutorial_complete,27-03-2024 18:59,completes a tutorial during an onboarding process.
+571CB4B92703,TCS8LAQ6ZZLK,begin_checkout,04-08-2024 15:25,begins the checkout process.
+D88AC9CDB964,PNI9QLS0DZLJ,add_payment_info,15-03-2024 13:16,submits their payment information during checkout.
+CF604F186C74,IOQ8TPB7TSSV,join_group,24-01-2024 06:52,joins a group.
+D2C41BF3BB1A,PDQ2VLP7DXGY,tutorial_complete,17-02-2024 16:21,completes a tutorial during an onboarding process.
+55A928F182D1,YEI9KUB5XDPH,purchase,09-03-2024 17:25,completes a purchase.
+66C0C7B95A8E,FMN8OTX0AQLV,join_group,29-01-2024 16:44,joins a group.
+15AC7D2B973A,BSV7CGN4WHMY,share,17-08-2024 15:06,shares content from your website or app.
+D3D1FAABEC07,KCA0XOB4OTBS,view_item_list,27-01-2024 12:03,views a list of items or offerings.
+7294E693FF90,VKG5WPI5DLZC,select_promotion,16-04-2024 11:52,selects a promotion.
+B4E5CB2FC3B5,ZIQ7MUF5PIOX,view_item,01-02-2024 08:02,views an item.
+3BC4F1369E60,HUD3UUR3KOUA,add_to_cart,09-07-2024 12:41,adds items to their shopping cart.
+8EF7DE36D7D0,RMP1VHY2CHCZ,add_payment_info,26-03-2024 20:05,submits their payment information during checkout.
+57D1FEDE28A2,JHL9TJY7FVIN,add_payment_info,10-01-2024 13:46,submits their payment information during checkout.
+8B8D0B08E9C5,ECM5LXD2CIJO,share,04-08-2024 23:12,shares content from your website or app.
+4518FAB09CA8,RAM3JTY1SPKJ,begin_checkout,11-01-2024 00:42,begins the checkout process.
+4BEDBC663AE7,POV8ZJM0SVHI,add_to_wishlist,06-02-2024 18:14,adds items to their wishlist.
+4E94424E9DE8,KFU0WEZ0MTZC,add_to_wishlist,26-02-2024 12:16,adds items to their wishlist.
+9F7CF83C5A97,HEB2LXC2RYZY,refund,03-01-2024 21:55,receives a refund.
+19EC30467A4D,DIV4WZI4PQPX,generate_lead,21-04-2024 04:33,submits a form or a request for information.
+D931D358BB1F,AIU8FWB5TLQO,refund,08-03-2024 22:11,receives a refund.
+8FEDB87D5A10,IVE1KDD9FWWB,add_payment_info,14-07-2024 17:21,submits their payment information during checkout.
+9F6BFB419BBA,QCM3LKE9UMUP,login,01-01-2024 09:19,logs in.
+A2D95617A7A2,ROG3QIK0KXHJ,select_item,16-04-2024 02:03,selects an item from a list of items or offerings.
+9F870379D947,QUI0OSK0NZML,ad_impression,23-08-2024 00:07,sees an advertisement (for apps only).
+07B4E6C714D2,FOG6CXS7QIHA,add_payment_info,14-08-2024 10:28,submits their payment information during checkout.
+262EDF197626,TYX6YWL7EOCO,tutorial_complete,15-08-2024 21:25,completes a tutorial during an onboarding process.
+459D6ABE4E5C,KPO4GPM6IEVE,share,17-04-2024 23:34,shares content from your website or app.
+0A4ADB5C19FE,WFG3KNT7JVHO,refund,21-05-2024 23:49,receives a refund.
+F90236D6DABA,PTF6TJU6YRYD,select_content,26-08-2024 00:12,selects content on your website or app.
+53A8FC44B499,UFA6WVN6RLVZ,earn_virtual_currency,14-02-2024 15:13,"earns virtual currency (coins, gems, tokens, etc.)."
+C95CE09C15D7,JRT5NMD9SLBN,login,27-06-2024 23:11,logs in.
+5FFC1757A8B6,BJJ4TMW4GNJP,select_promotion,19-05-2024 19:46,selects a promotion.
+3B127D05CA4D,CVH8AZI6XVOL,join_group,03-06-2024 00:07,joins a group.
+4B7E0859FE12,DTU4PDD4ANQF,login,31-01-2024 11:34,logs in.
+B239BDB19E2A,PRH7WFR3TNIL,share,24-06-2024 22:13,shares content from your website or app.
+813DFD0AFE7D,ONO9VTU2IJPV,generate_lead,27-07-2024 13:37,submits a form or a request for information.
+B2178D28477D,BIF2WYL2PCGH,view_cart,19-03-2024 09:00,views their shopping cart.
+F979A4AE8EA0,CKG8PBA2SCUD,join_group,11-07-2024 09:54,joins a group.
+B234F927A911,UCY9QZA5IBYM,add_shipping_info,10-04-2024 13:14,submits their shipping information during checkout.
+E2F5A705BB4C,AZJ5OBE0EWTJ,remove_from_cart,23-07-2024 13:42,removes items from their shopping cart.
+3DADEEA3AEA7,IUB3FCW3ZYPE,view_item_list,13-03-2024 04:16,views a list of items or offerings.
+6E855A6442B1,WIQ8RNF7XGEG,search,31-07-2024 09:42,searches your website or app.
+C96682E35C0D,CHT0GWU0SWGS,earn_virtual_currency,11-05-2024 07:37,"earns virtual currency (coins, gems, tokens, etc.)."
+5A88A0EEF624,XHK8MXZ7LNEB,select_item,29-04-2024 11:02,selects an item from a list of items or offerings.
+0E6F7DBE86F3,QIA5EOC6HFXM,spend_virtual_currency,21-07-2024 03:24,"spends virtual currency (coins, gems, tokens, etc.)."
+43E4150413E4,OHG0KFN6JHCI,join_group,09-03-2024 07:42,joins a group.
+B8E1FEF97985,FVW7CZJ1DKYW,select_promotion,09-08-2024 02:49,selects a promotion.
+1A7BF833ECD0,DFY5XLP4YCJW,generate_lead,05-03-2024 13:48,submits a form or a request for information.
+FDF10269803B,HDL4UVI1MPZJ,sign_up,20-07-2024 12:10,signs up for an account on your website or app.
+9E42C3698EF6,GAL4FNZ8SJMA,earn_virtual_currency,01-06-2024 05:35,"earns virtual currency (coins, gems, tokens, etc.)."
+216D3271B506,PIX6PGP4KGKY,spend_virtual_currency,22-07-2024 10:14,"spends virtual currency (coins, gems, tokens, etc.)."
+F25B5687B6C8,DGI5THN9HARW,view_cart,16-01-2024 11:09,views their shopping cart.
+4FE9D5EE2B93,OXW5LIW4SIER,refund,12-04-2024 10:03,receives a refund.
+01503980E055,OMA9MXF5XDRK,select_content,06-02-2024 04:30,selects content on your website or app.
+27E0568D8B8A,RIM2QDZ9RSHS,tutorial_begin,03-02-2024 02:06,begins a tutorial during an onboarding process.
+E2D9015FDBAA,GZI7FDA1TGXK,ad_impression,14-07-2024 06:44,sees an advertisement (for apps only).
+B6E12B3BBB7B,YBS9MLG7PMTR,tutorial_complete,02-03-2024 02:23,completes a tutorial during an onboarding process.
+63C6F36B6D9A,KQX8VCO7VQIJ,generate_lead,19-03-2024 03:27,submits a form or a request for information.
+5B4904732EEF,VUL4XET3RYWF,view_item,22-03-2024 04:33,views an item.
+2BE27C17AE66,FSD6TGY3YDEK,refund,01-04-2024 02:14,receives a refund.
+D725A1571AE3,KXY0BZF1WFKC,begin_checkout,13-08-2024 19:11,begins the checkout process.
+8EAF5466916B,ATB3CCG7BDEY,refund,04-03-2024 11:35,receives a refund.
+56328A2350C2,QJQ0OKV8PVZQ,view_item_list,26-01-2024 04:08,views a list of items or offerings.
+7C53B5B67B22,VIU0ZXE1TLJR,remove_from_cart,27-03-2024 01:12,removes items from their shopping cart.
+773B4FF54C24,DUF1WGL2FZQV,earn_virtual_currency,27-04-2024 10:35,"earns virtual currency (coins, gems, tokens, etc.)."
+274E21E92CE7,HCB2NSQ5MZBG,share,17-08-2024 13:03,shares content from your website or app.
+9C9133B1BC9F,AUD5IJV0IXQT,remove_from_cart,13-05-2024 09:20,removes items from their shopping cart.
+88301DCF6959,NAJ1OGS7VBYS,select_promotion,02-07-2024 20:24,selects a promotion.
+018B338F4E9D,THI7DSH0PWYU,earn_virtual_currency,05-02-2024 04:39,"earns virtual currency (coins, gems, tokens, etc.)."
+ED7A2C88583E,MYP9YQZ1RYAD,add_to_cart,31-01-2024 22:03,adds items to their shopping cart.
+888059C084AE,BKG7ABL1GCBJ,add_payment_info,20-03-2024 03:34,submits their payment information during checkout.
+350BF0019A51,MTF6TUR2PJDC,add_shipping_info,06-04-2024 00:43,submits their shipping information during checkout.
+0509188D68FF,RRT2BLX8YCTN,spend_virtual_currency,19-03-2024 09:49,"spends virtual currency (coins, gems, tokens, etc.)."
+6F7DBE37B6D0,SBI2VWO1CPUM,ad_impression,20-03-2024 18:10,sees an advertisement (for apps only).
+C048A7133544,DWZ6DGC8BMXO,ad_impression,27-04-2024 12:05,sees an advertisement (for apps only).
+5D2B0522E87E,HMG8KNU6XFHD,generate_lead,16-02-2024 16:41,submits a form or a request for information.
+235DF456A4BE,OOY8ESD5MEQD,begin_checkout,27-01-2024 20:06,begins the checkout process.
+F21653ECA55A,RQJ8OZF4AQQX,share,05-06-2024 00:50,shares content from your website or app.
+1E0E4A6C53E9,RYZ1VDW0QFJJ,add_to_cart,15-08-2024 16:12,adds items to their shopping cart.
+B1CE5DA6A0B7,BNR3NLL0ZBCU,search,24-01-2024 11:40,searches your website or app.
+56660334D165,EBU9ZOV8ODKQ,view_cart,04-01-2024 04:23,views their shopping cart.
+DDDF7FB5D76D,FXO3ZKM0BDBF,view_cart,27-03-2024 10:40,views their shopping cart.
+0C9452F10990,VJR3TBB3UOBN,view_promotion,12-08-2024 06:21,views a promotion on your website or app123.
+B28133372AB0,LAP1PYR4KDLH,sign_up,31-07-2024 21:35,signs up for an account on your website or app.
+FCCA0288CDB5,HWS8SJY0DMFR,tutorial_begin,08-07-2024 21:38,begins a tutorial during an onboarding process.
+0FEE89E5D147,ISN6UEO1ZIFR,tutorial_complete,24-05-2024 02:15,completes a tutorial during an onboarding process.
+F74801A3E758,HQC2OZZ2UCOQ,view_promotion,07-05-2024 07:10,views a promotion on your website or app123.
+7FDC372A7591,AWR8REP4TSHY,search,27-08-2024 03:42,searches your website or app.
+663A264D875E,WQD1QNB3FSVS,view_item,18-06-2024 22:19,views an item.
+CF4BB19BB9A0,LKX2PKF8DJBR,view_promotion,21-07-2024 14:03,views a promotion on your website or app123.
+48D96B3BBF07,PJI0AZZ4ACUS,select_item,13-05-2024 21:53,selects an item from a list of items or offerings.
+B97A84F675A6,UID8XNM8BKSQ,select_promotion,01-02-2024 10:03,selects a promotion.
+2A029D674A7A,DYB8IRR8JEVN,view_item,23-03-2024 10:56,views an item.
+90C21E8899C4,JWR0UIB7PEQY,login,15-03-2024 18:19,logs in.
+240100A088DF,HDT0SWH4DBQG,ad_impression,14-04-2024 23:10,sees an advertisement (for apps only).
+957F8F33E9DE,OSV6NQO3WALH,tutorial_complete,19-02-2024 06:05,completes a tutorial during an onboarding process.
+BBDFD4AC1DD3,OHU9HKO7XIQP,login,03-06-2024 04:25,logs in.
+90F4D488A91A,CKT8NMI2IXEV,purchase,11-07-2024 12:02,completes a purchase.
+30E505844889,SNZ8CDO3FYBF,share,08-06-2024 16:13,shares content from your website or app.
+87273BF278F2,VDN5LDC2USZX,add_payment_info,24-06-2024 08:30,submits their payment information during checkout.
+4E871607BED6,NIR2DXS7EWOX,add_shipping_info,23-01-2024 04:27,submits their shipping information during checkout.
+FE778F17C2C0,JGT6ZHK5PWSX,tutorial_begin,11-02-2024 18:19,begins a tutorial during an onboarding process.
+6258253B1000,WLK3UKT2OOPQ,sign_up,06-02-2024 04:37,signs up for an account on your website or app.
+F57118CDE72C,FSL5ICU8QAYL,select_item,24-02-2024 08:04,selects an item from a list of items or offerings.
+669B41983DFA,ZBS5BKL0ENRN,search,03-01-2024 15:40,searches your website or app.
+1FCF474040B1,HYJ7XUQ2UBCC,view_item,16-08-2024 19:04,views an item.
+2FF4293DAECD,DVK2RNW0IASZ,tutorial_begin,05-05-2024 19:28,begins a tutorial during an onboarding process.
+1DC093C557F3,ZWE3ARK4DWLG,refund,20-01-2024 17:41,receives a refund.
+B878763710F3,NRD8JRV7JHZV,refund,10-03-2024 12:24,receives a refund.
+AA28A794FCCE,RSZ0LYS4VYOM,select_promotion,26-07-2024 12:59,selects a promotion.
+7F161B10ECC4,HUJ5UZH1VERP,login,31-01-2024 12:26,logs in.
+B34A5CEEB228,KWM3HPI0BYPV,select_promotion,07-06-2024 23:32,selects a promotion.
+B0F89583B257,ECE5XAU8ZNBO,purchase,09-01-2024 11:20,completes a purchase.
+63F3FBCD58C6,YJY1PMO2YMIV,begin_checkout,24-07-2024 19:22,begins the checkout process.
+72537CB142C3,XBA8AWF5SZAP,begin_checkout,12-04-2024 19:40,begins the checkout process.
+CFE7CDE5FD18,AXE5YCV3FEEW,earn_virtual_currency,05-03-2024 21:23,"earns virtual currency (coins, gems, tokens, etc.)."
+D021983457B8,BBZ8AEP1CJBQ,tutorial_begin,28-03-2024 22:31,begins a tutorial during an onboarding process.
+4A3E29BB631C,VQA2RIS8GIVV,purchase,13-05-2024 15:00,completes a purchase.
+54ABF99221A6,ZVJ0NCS0PCPW,view_item_list,17-05-2024 13:36,views a list of items or offerings.
+E393ADE0034F,BNZ9SEQ2FMAP,purchase,25-04-2024 08:59,completes a purchase.
+E89A18EEFC52,EHF1QQX3QJAL,select_content,02-08-2024 07:30,selects content on your website or app.
+30895B1A9818,ZQC0TOJ1TECJ,view_item_list,04-03-2024 00:47,views a list of items or offerings.
+F1BE3DD2F7F5,GQO4OUM7CKAG,tutorial_complete,21-08-2024 12:02,completes a tutorial during an onboarding process.
+6BC6FF37222A,EHK3BCW9NYEX,tutorial_begin,31-05-2024 20:14,begins a tutorial during an onboarding process.
+18C822CD3265,BND9TGM0XNFS,sign_up,09-03-2024 11:39,signs up for an account on your website or app.
+0EF634789396,TCF0LHD5XNCI,search,27-04-2024 13:39,searches your website or app.
+37837FF18E7D,JZF2PVI5DQVP,add_shipping_info,20-07-2024 08:52,submits their shipping information during checkout.
+04FE07905764,EYJ4TBL8BSXN,purchase,19-08-2024 15:18,completes a purchase.
+DE172BDA0F6F,DYI8TFU9FHPS,view_item,09-02-2024 04:52,views an item.
+DF5501027D0B,QXC5OPA0SWKN,view_cart,09-02-2024 10:54,views their shopping cart.
+5A69BB0CAD0F,PJC2MRS1GFUY,add_shipping_info,25-03-2024 11:55,submits their shipping information during checkout.
+A12F604D21B7,TPW7HAN4CFDR,join_group,08-04-2024 01:25,joins a group.
+C16455315FE1,BQQ9UZM2IYEL,tutorial_begin,05-01-2024 11:17,begins a tutorial during an onboarding process.
+98FD2BC0E772,HQP2GCF6YKEV,generate_lead,14-04-2024 23:37,submits a form or a request for information.
+CB4CCEF25ECB,JEW3HWD9HVBE,remove_from_cart,20-05-2024 07:35,removes items from their shopping cart.
+8668AF5478DD,WYL3OZH8YIBZ,view_item,21-08-2024 22:56,views an item.
+40CC343EA8DE,WDV1AKC9LLHH,refund,08-01-2024 22:34,receives a refund.
+CDFB8182ACF5,AMD4PTI5JGME,add_to_wishlist,13-06-2024 16:59,adds items to their wishlist.
+69272A6CC913,AIC5TQX3XSXR,share,12-02-2024 19:54,shares content from your website or app.
+B81FE6DB5B61,GVZ1OSL6CAIP,view_item,27-05-2024 22:52,views an item.
+93C4592CD7D3,RYP0GFO9IYWA,earn_virtual_currency,05-01-2024 04:38,"earns virtual currency (coins, gems, tokens, etc.)."
+763A353E5839,HCI3WGP0RNGI,add_payment_info,21-04-2024 02:14,submits their payment information during checkout.
+4B276B295453,NTI2ELP8JLFE,spend_virtual_currency,16-03-2024 11:01,"spends virtual currency (coins, gems, tokens, etc.)."
+05DE27CB9BD6,QTJ5OKE0KTCF,view_cart,08-03-2024 04:57,views their shopping cart.
+9407D7037A39,SUJ3TZP2TZNI,add_shipping_info,07-07-2024 03:01,submits their shipping information during checkout.
+453D0C5B2FA0,LJP4NTK2OWOO,search,11-07-2024 15:21,searches your website or app.
+01C1BD660B3F,AQN6GPF1DRDE,view_item,02-03-2024 18:08,views an item.
+6FC8E6658082,HSS8NGM0QKEW,spend_virtual_currency,26-04-2024 21:11,"spends virtual currency (coins, gems, tokens, etc.)."
+65DE4A0736C5,YPI9HPH3UTMN,spend_virtual_currency,21-07-2024 22:53,"spends virtual currency (coins, gems, tokens, etc.)."
+56E4999FC9C9,LFQ7BDB0YKJE,view_promotion,20-06-2024 09:48,views a promotion on your website or app123.
+A37988B3E743,APG3HXI2WWKM,view_cart,16-04-2024 19:56,views their shopping cart.
+A43355E215E4,JZO0FUX1IUTU,search,03-04-2024 10:23,searches your website or app.
+099A0E44A6EF,GBT3GLU3GUJH,add_to_cart,22-01-2024 06:17,adds items to their shopping cart.
+3045F8CDE6EC,KIH0ZSM4KCKT,tutorial_complete,20-07-2024 21:50,completes a tutorial during an onboarding process.
+F2ACB0ECAC84,KAW8QVV7ONUH,select_item,23-06-2024 07:57,selects an item from a list of items or offerings.
+D796563F0F06,YGV5ZJA0PZMT,ad_impression,31-03-2024 00:49,sees an advertisement (for apps only).
+D26FED93A48E,OSE7OHC8EGMF,share,13-08-2024 11:41,shares content from your website or app.
+B3B79166733E,NXE9RDP9RJDL,remove_from_cart,13-05-2024 21:43,removes items from their shopping cart.
+8355B9E17AD8,LBU8ITW3OIBM,add_payment_info,03-05-2024 09:06,submits their payment information during checkout.
+0655B56F809D,HPW1IIO4XPHZ,login,17-02-2024 04:15,logs in.
+3FD7A1C110EF,XEA5WGV4SVXI,share,17-08-2024 11:03,shares content from your website or app.
+11910747DBEF,TGM2LCZ5NHLE,tutorial_complete,22-07-2024 18:19,completes a tutorial during an onboarding process.
+4DB3E677EB54,NDH9DEP2FRYR,view_item,06-03-2024 00:39,views an item.
+D1656394410A,GUA4OPG2RNCO,view_item_list,06-08-2024 22:03,views a list of items or offerings.
+B0A16955AB5C,TRG0SPF6YXSB,select_content,23-02-2024 16:14,selects content on your website or app.
+09538FC460FA,XXS0AIY8PVJK,add_payment_info,16-05-2024 22:25,submits their payment information during checkout.
+FD584993E32E,EDQ2QEV8FCNM,add_to_cart,30-03-2024 18:11,adds items to their shopping cart.
+2B2F881FB2EC,HGC2PTO5KSNG,spend_virtual_currency,28-02-2024 22:24,"spends virtual currency (coins, gems, tokens, etc.)."
+828A0EAAD009,RRJ2GVU0BTKG,view_item,19-01-2024 06:28,views an item.
+6B52DB343A14,FKL2NAY4GRFO,tutorial_begin,07-02-2024 06:28,begins a tutorial during an onboarding process.
+935D38E4E992,WTN4QWD9VEWY,add_to_cart,14-07-2024 12:41,adds items to their shopping cart.
+C84476BCB4D0,PYR1JJM4JTAI,login,23-06-2024 06:55,logs in.
+358A50BD9DDF,RIS0ZYW6CHVM,select_item,27-04-2024 23:22,selects an item from a list of items or offerings.
+2D7D5CA1AFA4,SOZ2VNW2ZQCN,add_to_cart,08-06-2024 17:08,adds items to their shopping cart.
+3351301AB06B,IDY9HEP8ZJDM,remove_from_cart,15-03-2024 08:09,removes items from their shopping cart.
+7BFAB4B130E4,AIJ2AYW1TSZF,view_promotion,26-04-2024 18:33,views a promotion on your website or app123.
+EA8EF2E597DE,HZX9CYI3MIJR,ad_impression,31-01-2024 14:09,sees an advertisement (for apps only).
+AB4E0682319A,UUZ4AAP8DMLN,view_promotion,28-03-2024 16:30,views a promotion on your website or app123.
+A93AF8822304,SDY1HQJ2AIYX,purchase,15-03-2024 05:30,completes a purchase.
+72049D6534FB,HGI7SPS3GWZC,remove_from_cart,27-03-2024 20:32,removes items from their shopping cart.
+636F85E54B23,EYG5WTW2HGWH,purchase,01-07-2024 04:06,completes a purchase.
+47E212B27BB7,ORH8WMZ1SHXM,purchase,02-06-2024 12:52,completes a purchase.
+57666E481668,CGQ1VSS5XIJT,begin_checkout,26-03-2024 14:11,begins the checkout process.
+EEB1AF1C3995,WDJ9FVE3AVQY,view_item,22-04-2024 12:54,views an item.
+2D65F5D5F388,LGS9VZA5ECTP,tutorial_begin,28-03-2024 07:00,begins a tutorial during an onboarding process.
+7B06A20114B3,RJD0DDM7CQLL,add_to_wishlist,21-04-2024 05:01,adds items to their wishlist.
+4D209DB8F411,BPP2MQO8CYER,spend_virtual_currency,09-05-2024 22:58,"spends virtual currency (coins, gems, tokens, etc.)."
+70843A0598A3,JXY2RWS6LESV,tutorial_complete,24-05-2024 03:16,completes a tutorial during an onboarding process.
+99D2899E5513,PHH2GRS5VVAP,select_content,27-07-2024 23:07,selects content on your website or app.
+BE491C7233BF,INN8HXC7GJIF,view_item,10-07-2024 00:12,views an item.
+BE3516DCA386,UWC6DSK6ZPDT,remove_from_cart,21-03-2024 07:02,removes items from their shopping cart.
+D5BCA13D9C48,HZC2BUL4TKSH,login,19-07-2024 08:11,logs in.
+9A4092A14C04,MWT1LYC8OZHU,earn_virtual_currency,11-05-2024 15:27,"earns virtual currency (coins, gems, tokens, etc.)."
+6228ED3FA5A0,ZQM6MGM9AVOG,add_payment_info,18-04-2024 18:31,submits their payment information during checkout.
+CCAAF523D98B,XZC9GHU8PIHQ,ad_impression,20-08-2024 05:54,sees an advertisement (for apps only).
+A24A6ABBA416,LBQ3EUV9VNGH,select_promotion,30-01-2024 01:43,selects a promotion.
+658D71BAA7E4,NCQ7TLP6YQAX,view_cart,26-07-2024 11:06,views their shopping cart.
+F19BAE6E3E6B,EBZ3RQN2RUTR,begin_checkout,21-01-2024 00:33,begins the checkout process.
+784FE53EFD4A,STA0WTN1NHRW,purchase,26-07-2024 01:39,completes a purchase.
+A78281EFD98D,WIX8GOM2XMKS,purchase,11-01-2024 01:40,completes a purchase.

@@ -1,0 +1,29 @@
+ChannelName,ChannelID,EventType,EventDetails
+Affiliates,101,ad_impression,sees an advertisement (for apps only).
+Audio,102,earn_virtual_currency,"earns virtual currency (coins, gems, tokens, etc.)."
+Cross-network,103,generate_lead,submits a form or a request for information.
+Direct,104,join_group,joins a group.
+Display,105,login,logs in.
+Email,106,purchase,completes a purchase.
+Mobile Push Notifications,107,refund,receives a refund.
+Organic Search,108,search,searches your website or app.
+Organic Shopping,109,select_content,selects content on your website or app.
+Organic Social,110,share,shares content from your website or app.
+Organic Video,111,sign_up,signs up for an account on your website or app.
+Paid Other,112,spend_virtual_currency,"spends virtual currency (coins, gems, tokens, etc.)."
+Paid Search,113,tutorial_begin,begins a tutorial during an onboarding process.
+Paid Shopping,114,tutorial_complete,completes a tutorial during an onboarding process.
+Paid Social,115,add_payment_info,submits their payment information during checkout.
+Paid Video,116,add_shipping_info,submits their shipping information during checkout.
+Referral,117,add_to_cart,adds items to their shopping cart.
+SMS,118,add_to_wishlist,adds items to their wishlist.
+,,begin_checkout,begins the checkout process.
+,,purchase,completes a purchase.
+,,refund,receives a refund.
+,,remove_from_cart,removes items from their shopping cart.
+,,select_item,selects an item from a list of items or offerings.
+,,select_promotion,selects a promotion.
+,,view_cart,views their shopping cart.
+,,view_item,views an item.
+,,view_item_list,views a list of items or offerings.
+,,view_promotion,views a promotion on your website or app123.
