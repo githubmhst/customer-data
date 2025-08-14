@@ -1,57 +1,21 @@
+MIT License
 
-#### **LICENSE** (MIT License recommended)
-[MIT License text here](https://choosealicense.com/licenses/mit/)
+Copyright (c) 2025 githubmhst
 
-#### **.gitkeep** files
-Empty `.gitkeep` files let Git track empty folders.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
----
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-## **2. Create Tasks in GitHub Project Board**
-
-Since you already have a **GitHub Project** at [Predictive-Analytics Project board](https://github.com/users/githubmhst/projects/3), we’ll add tasks and link them to your repo.
-
-### **Steps**
-1. Go to your **Predictive-Analytics Project**.
-2. Click **Add item → Add draft issue**.
-3. Enter the title, then click **Convert to issue** and select **githubmhst/customer-data** as the repo.
-4. Repeat for each task below.
-
----
-
-### **Task List**
-**Setup & Documentation**
-- [ ] Create project folder structure in `customer-data` repo
-- [ ] Write README.md with project overview, use cases, and setup instructions
-- [ ] Add `requirements.txt` with necessary Python libraries
-- [ ] Add LICENSE file (MIT)
-- [ ] Create `.gitkeep` files in empty folders
-
-**Data Preparation**
-- [ ] Implement `data_generator.py` to create synthetic datasets for all 6 use cases
-- [ ] Implement `preprocess.py` for cleaning and feature engineering
-- [ ] Save generated datasets in `/data/raw` and `/data/processed`
-
-**Model Development**
-- [ ] Implement `train_model.py` for training ML models
-- [ ] Implement `evaluate.py` for metrics and visualizations
-- [ ] Create notebook for Product Forecasting
-- [ ] Create notebook for Sales Conversion
-- [ ] Create notebook for Inventory Replenishment
-- [ ] Create notebook for Supply Chain Disruption
-- [ ] Create notebook for Cash Flow Forecasting
-- [ ] Create notebook for Marketing ROI Prediction
-
-**Testing**
-- [ ] Write `test_data.py` to validate dataset generation
-- [ ] Write `test_models.py` to validate training pipeline
-
-**Finalization**
-- [ ] Run all notebooks and commit outputs
-- [ ] Upload visualizations to `/visuals/`
-- [ ] Update README with final results and sample plots
-
----
-
-Next, I can prepare a **starter zip package** with this folder structure, placeholder code, and docs so you can just upload it to GitHub without manual typing.  
-Do you want me to prepare that package for you?
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
