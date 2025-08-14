@@ -1,4 +1,4 @@
-# Predictive Analytics Showcase — Customer Data
+# Predictive Analytics Showcase — Repository Customer Data
 
 This repository contains 6 predictive analytics use cases:
 1. Product demand forecasting
