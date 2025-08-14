@@ -1,13 +1,27 @@
+# Core data manipulation & analysis
+pandas==2.2.2         # DataFrames, CSV/Excel file reading, cleaning, transformations
+numpy==1.26.4         # Numerical computations and array handling
 
-#### **requirements.txt**
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-xgboost
-lightgbm
-prophet
-tensorflow
-statsmodels
-pyyaml
+# Machine Learning
+scikit-learn==1.5.1   # Regression, classification, clustering, model evaluation
+xgboost==2.1.1        # Gradient boosting models for high performance
+lightgbm==4.5.0       # Another fast gradient boosting library
+prophet==1.1.5        # Time series forecasting (sales, inventory, supply chain predictions)
+
+# Visualization
+matplotlib==3.9.2     # Basic plotting for results and EDA
+seaborn==0.13.2       # Statistical data visualization
+plotly==5.23.0        # Interactive dashboards and charts
+
+# Data preprocessing & pipeline
+scipy==1.13.1         # Statistical functions, distance metrics
+category_encoders==2.6.3  # Encoding categorical variables
+imbalanced-learn==0.12.3  # Handling imbalanced datasets
+
+# Notebook environment (for prototyping)
+jupyterlab==4.2.4     # Notebook interface for experiments
+ipykernel==6.29.5     # Kernel for running Jupyter notebooks
+
+# Optional - For API or deployment (future scope)
+flask==3.0.3          # Build an API endpoint for predictions
+pydantic==2.9.2       # Data validation for API inputs
