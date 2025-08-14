@@ -1,0 +1,13 @@
+
+#### **requirements.txt**
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xgboost
+lightgbm
+prophet
+tensorflow
+statsmodels
+pyyaml
